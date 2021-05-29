@@ -18,7 +18,7 @@
 | --- | --------- |
 |1  | [Max Sum Subarray of size K](https://github.com/pr7prashant/dsa-practice/blob/master/Array/MaxSumSubArrayOfSizeK.cpp) |
 
-2. ### Strings
+### 2. Strings
 | No. | Problem |
 | --- | --------- |
 |1  | [Max Sum Subarray of size K](https://github.com/pr7prashant/dsa-practice/blob/master/Array/MaxSumSubArrayOfSizeK.cpp) |
