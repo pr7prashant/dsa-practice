@@ -74,7 +74,7 @@ int main()
 
 **************** Logic ****************
 Iterate array in reverse order. Push the elements on the right side into stack.
-Pop elements until top is greater than current element or the stack is empty.
+Pop elements until top is smaller than current element or the stack is empty.
 If stack becomes empty then no greater element exists on right side.
 
 */
