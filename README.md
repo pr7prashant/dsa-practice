@@ -15,3 +15,4 @@
 |3  | [Count Occurences of Anagrams](https://github.com/pr7prashant/dsa-practice/blob/master/Array/CountOccurencesOfAnagrams.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/1#) |
 |4  | [Maximum of all sub arrays of size k](https://github.com/pr7prashant/dsa-practice/blob/master/Array/SlidingWindowMaximum.cpp) | [InterviewBit](https://www.interviewbit.com/problems/sliding-window-maximum/#) |
 |5  | [Longest sub array with sum k](https://github.com/pr7prashant/dsa-practice/blob/master/Array/LongestSubArrayWithSumK.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1#) |
+|6  | [Longest k unique characters substring](https://github.com/pr7prashant/dsa-practice/blob/master/Array/LongestKUniqueCharSubstring.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1#) |
