@@ -6,6 +6,7 @@
 | No. | Topic |
 | --- | --------- |
 |1  | [Array](#1-Array) |
+|1  | [Stack](#2-Stack) |
 
 ### 1. Array
 | No. | Problem | Practice Link |
@@ -17,3 +18,8 @@
 |5  | [Longest sub array with sum k](https://github.com/pr7prashant/dsa-practice/blob/master/Array/LongestSubArrayWithSumK.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1#) |
 |6  | [Longest k unique characters substring](https://github.com/pr7prashant/dsa-practice/blob/master/Array/LongestKUniqueCharSubstring.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1#) |
 |7  | [Minimum Window substring](https://github.com/pr7prashant/dsa-practice/blob/master/Array/MinimumWindowSubstring.cpp) | [Leetcode](https://leetcode.com/problems/minimum-window-substring/) |
+
+### 2. Stack
+| No. | Problem | Practice Link |
+| --- | --------- | --------- |
+|1  | [Next Greater Element](https://github.com/pr7prashant/dsa-practice/blob/master/Stack/NextGreaterElement.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1#) |
