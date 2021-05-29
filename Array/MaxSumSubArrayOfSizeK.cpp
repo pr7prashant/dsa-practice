@@ -1,6 +1,23 @@
-// **************** Problem Description ****************
-// Given an array of integers Arr of size N and a number K. 
-// Return the maximum sum of a subarray of size K.
+/*
+
+**************** Problem Description ****************
+Given an array of integers Arr of size N and a number K. 
+Return the maximum sum of a subarray of size K.
+
+    Example:
+
+    Input:
+    N = 4, K = 2
+    Arr = [100, 200, 300, 400]
+
+    Output:
+    700
+
+    Explanation:
+    Arr3  + Arr4 =700,
+    which is maximum.
+
+*/
 
 #include<bits/stdc++.h> 
 using namespace std;
@@ -47,5 +64,9 @@ int main()
     return 0; 
 }
 
-// **************** Logic ****************
-// Basic fixed size sliding window.
+/*
+
+**************** Logic ****************
+Basic fixed size sliding window.
+
+*/
