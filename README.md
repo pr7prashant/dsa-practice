@@ -25,3 +25,4 @@
 |1  | [Next Greater Element](https://github.com/pr7prashant/dsa-practice/blob/master/Stack/NextGreaterElement.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1#) |
 |2  | [Nearest Smaller Element](https://github.com/pr7prashant/dsa-practice/blob/master/Stack/NearestSmallerElement.cpp) | [InterviewBit](https://www.interviewbit.com/problems/nearest-smaller-element/) |
 |3  | [Stock Span](https://github.com/pr7prashant/dsa-practice/blob/master/Stack/StockSpan.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1#) |
+|4  | [Maximum Rectangular Area in a Histogram](https://github.com/pr7prashant/dsa-practice/blob/master/Stack/MaxRectAreaInHistogram.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1#) |
