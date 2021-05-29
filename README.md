@@ -23,3 +23,4 @@
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Next Greater Element](https://github.com/pr7prashant/dsa-practice/blob/master/Stack/NextGreaterElement.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1#) |
+|2  | [Nearest Smaller Element](https://github.com/pr7prashant/dsa-practice/blob/master/Stack/NearestSmallerElement.cpp) | [InterviewBit](https://www.interviewbit.com/problems/nearest-smaller-element/) |
