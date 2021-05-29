@@ -6,7 +6,7 @@
 | No. | Topic |
 | --- | --------- |
 |1  | [Array](#1-Array) |
-|1  | [Stack](#2-Stack) |
+|2  | [Stack](#2-Stack) |
 
 ### 1. Array
 | No. | Problem | Practice Link |
