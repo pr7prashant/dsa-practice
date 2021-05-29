@@ -3,7 +3,7 @@
 ### Language : C++
 
 ### Table of Contents
-| No. | Questions |
+| No. | Topic |
 | --- | --------- |
 |1  | [Array](#1-Array) |
 
