@@ -18,6 +18,7 @@
 |5  | [Longest sub array with sum k](https://github.com/pr7prashant/dsa-practice/blob/master/Array/LongestSubArrayWithSumK.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1#) |
 |6  | [Longest k unique characters substring](https://github.com/pr7prashant/dsa-practice/blob/master/Array/LongestKUniqueCharSubstring.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1#) |
 |7  | [Minimum Window substring](https://github.com/pr7prashant/dsa-practice/blob/master/Array/MinimumWindowSubstring.cpp) | [Leetcode](https://leetcode.com/problems/minimum-window-substring/) |
+|8  | [Trapping Rain Water](https://github.com/pr7prashant/dsa-practice/blob/master/Array/TrappingRainWater.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1#) |
 
 ### 2. Stack
 | No. | Problem | Practice Link |
