@@ -28,3 +28,4 @@
 |3  | [Stock Span](https://github.com/pr7prashant/dsa-practice/blob/master/Stack/StockSpan.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1#) |
 |4  | [Maximum Rectangular Area in a Histogram](https://github.com/pr7prashant/dsa-practice/blob/master/Stack/MaxRectAreaInHistogram.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1#) |
 |5  | [Maximum Area Rectangle of 1 in a Binary Matrix](https://github.com/pr7prashant/dsa-practice/blob/master/Stack/MaxAreaRectInBinaryMatrix.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/max-rectangle/1#) |
+|6  | [Minimum stack element O(1)](https://github.com/pr7prashant/dsa-practice/blob/master/Stack/MinStackElement.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/special-stack/1#) |
