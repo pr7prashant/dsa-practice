@@ -8,6 +8,7 @@
 |1  | [Array](#1-Array) |
 |2  | [Stack](#2-Stack) |
 |3  | [Two Pointers](#3-Two-Pointers) |
+|4  | [Sorting](#4-Sorting) |
 
 ### 1. Array
 | No. | Problem | Practice Link |
@@ -40,3 +41,8 @@
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [The Celebrity Problem](https://github.com/pr7prashant/dsa-practice/blob/master/TwoPointers/CelebrityProblem.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1) |
+
+### 4. Sorting
+| No. | Problem | Practice Link |
+| --- | --------- | --------- |
+|1  | [Merge Intervals](https://github.com/pr7prashant/dsa-practice/blob/master/Sorting/MergeIntervals.cpp) | [Leetcode](https://leetcode.com/problems/merge-intervals/) |
