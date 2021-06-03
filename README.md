@@ -33,6 +33,7 @@
 |7  | [Valid Parentheses](https://github.com/pr7prashant/dsa-practice/blob/master/Stack/ValidParentheses.cpp) | [Leetcode](https://leetcode.com/problems/valid-parentheses/) |
 |8  | [The Celebrity Problem](https://github.com/pr7prashant/dsa-practice/blob/master/Stack/CelebrityProblem.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1) |
 |9  | [Two stacks in an array](https://github.com/pr7prashant/dsa-practice/blob/master/Stack/TwoStacksInArray.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1#) |
+|10  | [Sort a stack recursively](https://github.com/pr7prashant/dsa-practice/blob/master/Stack/SortStack.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/sort-a-stack/1#) |
 
 ### 3. Two Pointers
 | No. | Problem | Practice Link |
