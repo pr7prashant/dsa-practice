@@ -6,9 +6,11 @@
 | No. | Topic |
 | --- | --------- |
 |1  | [Array](#1-Array) |
-|2  | [Stack](#2-Stack) |
-|3  | [Two Pointers](#3-Two-Pointers) |
-|4  | [Sorting](#4-Sorting) |
+|2  | [String](#2-String) |
+|3  | [Stack](#3-Stack) |
+|4  | [Queue](#4-Queue) |
+|5  | [Sorting](#5-Sorting) |
+|6  | [Two Pointers](#6-Two-Pointers) |
 
 ### 1. Array
 | No. | Problem | Practice Link |
@@ -22,7 +24,11 @@
 |7  | [Minimum Window substring](https://github.com/pr7prashant/dsa-practice/blob/master/Array/MinimumWindowSubstring.cpp) | [Leetcode](https://leetcode.com/problems/minimum-window-substring/) |
 |8  | [Trapping Rain Water](https://github.com/pr7prashant/dsa-practice/blob/master/Array/TrappingRainWater.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1#) |
 
-### 2. Stack
+### 2. String
+| No. | Problem | Practice Link |
+| --- | --------- | --------- |
+
+### 3. Stack
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Next Greater Element](https://github.com/pr7prashant/dsa-practice/blob/master/Stack/NextGreaterElement.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1#) |
@@ -38,12 +44,17 @@
 |11  | [Merge Intervals](https://github.com/pr7prashant/dsa-practice/blob/master/Stack/MergeIntervals.cpp) | [Leetcode](https://leetcode.com/problems/merge-intervals/) |
 |12  | [Longest Valid Parentheses](https://github.com/pr7prashant/dsa-practice/blob/master/Stack/LongestValidParentheses.cpp) | [Leetcode](https://leetcode.com/problems/longest-valid-parentheses/) |
 
-### 3. Two Pointers
+### 4. Queue
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
-|1  | [The Celebrity Problem](https://github.com/pr7prashant/dsa-practice/blob/master/TwoPointers/CelebrityProblem.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1) |
+|1  | [LRU Cache](https://github.com/pr7prashant/dsa-practice/blob/master/Queue/LRUCache.cpp) | [Leetcode](https://leetcode.com/problems/lru-cache/) |
 
-### 4. Sorting
+### 5. Sorting
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Merge Intervals](https://github.com/pr7prashant/dsa-practice/blob/master/Sorting/MergeIntervals.cpp) | [Leetcode](https://leetcode.com/problems/merge-intervals/) |
+
+### 6. Two Pointers
+| No. | Problem | Practice Link |
+| --- | --------- | --------- |
+|1  | [The Celebrity Problem](https://github.com/pr7prashant/dsa-practice/blob/master/TwoPointers/CelebrityProblem.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1) |
