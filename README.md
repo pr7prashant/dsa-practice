@@ -36,6 +36,7 @@
 |9  | [Two stacks in an array](https://github.com/pr7prashant/dsa-practice/blob/master/Stack/TwoStacksInArray.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1#) |
 |10  | [Sort a stack recursively](https://github.com/pr7prashant/dsa-practice/blob/master/Stack/SortStack.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/sort-a-stack/1#) |
 |11  | [Merge Intervals](https://github.com/pr7prashant/dsa-practice/blob/master/Stack/MergeIntervals.cpp) | [Leetcode](https://leetcode.com/problems/merge-intervals/) |
+|12  | [Longest Valid Parentheses](https://github.com/pr7prashant/dsa-practice/blob/master/Stack/LongestValidParentheses.cpp) | [Leetcode](https://leetcode.com/problems/longest-valid-parentheses/) |
 
 ### 3. Two Pointers
 | No. | Problem | Practice Link |
