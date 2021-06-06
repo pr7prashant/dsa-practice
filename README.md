@@ -49,6 +49,7 @@
 | --- | --------- | --------- |
 |1  | [LRU Cache](https://github.com/pr7prashant/dsa-practice/blob/master/Queue/LRUCache.cpp) | [Leetcode](https://leetcode.com/problems/lru-cache/) |
 |2  | [Reverse Queue Recursively](https://github.com/pr7prashant/dsa-practice/blob/master/Queue/ReverseQueue.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/queue-reversal/1#) |
+|3  | [Reverse first k elements of Queue](https://github.com/pr7prashant/dsa-practice/blob/master/Queue/ReverseFirstKElements.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1#) |
 
 ### 5. Sorting
 | No. | Problem | Practice Link |
