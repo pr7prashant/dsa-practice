@@ -20,6 +20,7 @@
 |3  | [Maximum of all sub arrays of size k](https://github.com/pr7prashant/dsa-practice/blob/master/Array/SlidingWindowMaximum.cpp) | [InterviewBit](https://www.interviewbit.com/problems/sliding-window-maximum/#) |
 |4  | [Longest sub array with sum k](https://github.com/pr7prashant/dsa-practice/blob/master/Array/LongestSubArrayWithSumK.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1#) |
 |5  | [Trapping Rain Water](https://github.com/pr7prashant/dsa-practice/blob/master/Array/TrappingRainWater.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1#) |
+|6  | [Gas Station](https://github.com/pr7prashant/dsa-practice/blob/master/Array/GasStation.cpp) | [Leetcode](https://leetcode.com/problems/gas-station/) |
 
 ### 2. String
 | No. | Problem | Practice Link |
