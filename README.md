@@ -52,6 +52,7 @@
 |2  | [Reverse Queue Recursively](https://github.com/pr7prashant/dsa-practice/blob/master/Queue/ReverseQueue.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/queue-reversal/1#) |
 |3  | [Reverse first k elements of Queue](https://github.com/pr7prashant/dsa-practice/blob/master/Queue/ReverseFirstKElements.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1#) |
 |4  | [Rotting Oranges](https://github.com/pr7prashant/dsa-practice/blob/master/Queue/RottingOranges.cpp) | [Leetcode](https://leetcode.com/problems/rotting-oranges/) |
+|5  | [Nearest zero in a binary matrix](https://github.com/pr7prashant/dsa-practice/blob/master/Queue/NearestZeroInMatrix.cpp) | [Leetcode](https://leetcode.com/problems/01-matrix/) |
 
 ### 5. Sorting
 | No. | Problem | Practice Link |
