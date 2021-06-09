@@ -9,8 +9,9 @@
 |2  | [String](#2-String) |
 |3  | [Stack](#3-Stack) |
 |4  | [Queue](#4-Queue) |
-|5  | [Sorting](#5-Sorting) |
-|6  | [Two Pointers](#6-Two-Pointers) |
+|5  | [Linked List](#5-Linked-List) |
+|6  | [Sorting](#6-Sorting) |
+|7  | [Two Pointers](#7-Two-Pointers) |
 
 ### 1. Array
 | No. | Problem | Practice Link |
@@ -55,12 +56,17 @@
 |5  | [Nearest zero in a binary matrix](https://github.com/pr7prashant/dsa-practice/blob/master/Queue/NearestZeroInMatrix.cpp) | [Leetcode](https://leetcode.com/problems/01-matrix/) |
 |6  | [First non-repeating character in a stream](https://github.com/pr7prashant/dsa-practice/blob/master/Queue/FirstNonRepeatingCharacter.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1#) |
 
-### 5. Sorting
+### 5. Linked List
+| No. | Problem | Practice Link |
+| --- | --------- | --------- |
+|1  | [Reverse a Linked List](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/ReverseALinkedList.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1#) |
+
+### 6. Sorting
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Merge Intervals](https://github.com/pr7prashant/dsa-practice/blob/master/Sorting/MergeIntervals.cpp) | [Leetcode](https://leetcode.com/problems/merge-intervals/) |
 
-### 6. Two Pointers
+### 7. Two Pointers
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [The Celebrity Problem](https://github.com/pr7prashant/dsa-practice/blob/master/TwoPointers/CelebrityProblem.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1) |
