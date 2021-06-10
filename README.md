@@ -60,6 +60,7 @@
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Reverse a Linked List](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/ReverseALinkedList.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1#) |
+|2  | [Reverse Nodes in k-Group](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/ReverseInKGroup.cpp) | [Leetcode](https://leetcode.com/problems/reverse-nodes-in-k-group/) |
 
 ### 6. Sorting
 | No. | Problem | Practice Link |
