@@ -67,6 +67,7 @@
 |6  | [Remove Duplicates from Sorted List](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/RemoveDuplicatesSortedList.cpp) | [Leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
 |7  | [Remove duplicates from an unsorted linked list](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/RemoveDuplicatesUnsortedList.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1#) |
 |8  | [Add 1 to a number represented as linked list](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/AddOneToNumber.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1#) |
+|9  | [Add two numbers represented by linked lists](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/AddTwoNumbers.cpp) | [Leetcode](https://leetcode.com/problems/add-two-numbers/) |
 
 ### 6. Sorting
 | No. | Problem | Practice Link |
