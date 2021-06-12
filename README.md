@@ -64,7 +64,7 @@
 |3  | [Detect loop in a Linked List](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/DetectLoop.cpp) | [Leetcode](https://leetcode.com/problems/linked-list-cycle/) |
 |4  | [Remove loop in a Linked List](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/RemoveLoop.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1#) |
 |5  | [Starting point of loop](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/StartOfLoop.cpp) | [Leetcode](https://leetcode.com/problems/linked-list-cycle-ii/) |
-|6  | [Remove Duplicates from Sorted List](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/RemoveDuplicates.cpp) | [Leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
+|6  | [Remove Duplicates from Sorted List](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/RemoveDuplicatesSortedList.cpp) | [Leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
 
 ### 6. Sorting
 | No. | Problem | Practice Link |
