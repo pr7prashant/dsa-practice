@@ -70,6 +70,7 @@
 |9  | [Add two numbers represented by linked lists](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/AddTwoNumbers.cpp) | [Leetcode](https://leetcode.com/problems/add-two-numbers/) |
 |10  | [Intersection of two sorted Linked lists](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/IntersectionOfTwoSortedList.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1#) |
 |11  | [Intersection Node of Two Linked Lists](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/IntersectionNodeOfTwoLists.cpp) | [Leetcode](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
+|12  | [Merge Sort for Linked List](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/MergeSort.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1#) |
 
 ### 6. Sorting
 | No. | Problem | Practice Link |
