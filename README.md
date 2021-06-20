@@ -72,6 +72,7 @@
 |11  | [Intersection Node of Two Linked Lists](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/IntersectionNodeOfTwoLists.cpp) | [Leetcode](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
 |12  | [Merge Sort for Linked List](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/MergeSort.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1#) |
 |13  | [Quick Sort for Linked List](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/QuickSort.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1#) |
+|14  | [Palindrome Linked List](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/PalindromeLinkedList.cpp) | [Leetcode](https://leetcode.com/problems/palindrome-linked-list/) |
 
 ### 6. Sorting
 | No. | Problem | Practice Link |
