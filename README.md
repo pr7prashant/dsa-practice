@@ -75,6 +75,7 @@
 |14  | [Palindrome Linked List](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/PalindromeLinkedList.cpp) | [Leetcode](https://leetcode.com/problems/palindrome-linked-list/) |
 |15  | [Flattening a Linked List](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/FlattenLinkedList.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1#) |
 |16  | [Copy List with Random Pointer](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/CopyListWithRandomPointer.cpp) | [Leetcode](https://leetcode.com/problems/copy-list-with-random-pointer/) |
+|17  | [Merge k Sorted Lists](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/MergeKSortedLists.cpp) | [Leetcode](https://leetcode.com/problems/merge-k-sorted-lists/) |
 
 ### 6. Sorting
 | No. | Problem | Practice Link |
