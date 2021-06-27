@@ -77,6 +77,7 @@
 |16  | [Copy List with Random Pointer](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/CopyListWithRandomPointer.cpp) | [Leetcode](https://leetcode.com/problems/copy-list-with-random-pointer/) |
 |17  | [Merge k Sorted Lists](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/MergeKSortedLists.cpp) | [Leetcode](https://leetcode.com/problems/merge-k-sorted-lists/) |
 |18  | [Delete nodes having greater value on right](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/DeleteNodeWithGreaterValOnRight.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1#) |
+|19  | [Segregate even and odd nodes in a Link List](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/SegregateEvenOdd.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list5035/1#) |
 
 ### 6. Sorting
 | No. | Problem | Practice Link |
