@@ -12,6 +12,7 @@
 |5  | [Linked List](#5-Linked-List) |
 |6  | [Sorting](#6-Sorting) |
 |7  | [Two Pointers](#7-Two-Pointers) |
+|8  | [Binary Tree](#8-Binary-Tree) |
 
 ### 1. Array
 | No. | Problem | Practice Link |
@@ -88,3 +89,8 @@
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [The Celebrity Problem](https://github.com/pr7prashant/dsa-practice/blob/master/TwoPointers/CelebrityProblem.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1) |
+
+### 8. Binary Tree
+| No. | Problem | Practice Link |
+| --- | --------- | --------- |
+|1  | [Binary Tree Level Order Traversal](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/LevelOrderTraversal.cpp) | [Leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
