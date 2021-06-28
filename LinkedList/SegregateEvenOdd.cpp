@@ -31,7 +31,6 @@ The order of appearance of numbers within each segregation should be same as tha
 
 */
 
-
 #include <bits/stdc++.h>
 using namespace std;
 
