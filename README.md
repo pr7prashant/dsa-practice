@@ -94,3 +94,4 @@
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Binary Tree Level Order Traversal](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/LevelOrderTraversal.cpp) | [Leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
+|2  | [Diameter of Binary Tree](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/DiameterOfBinaryTree.cpp) | [Leetcode](https://leetcode.com/problems/diameter-of-binary-tree/) |
