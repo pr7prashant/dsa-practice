@@ -98,3 +98,4 @@
 |3  | [Invert Binary Tree](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/InvertBinaryTree.cpp) | [Leetcode](https://leetcode.com/problems/invert-binary-tree/) |
 |4  | [Binary Tree Right Side View](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/SideViewOfBinaryTree.cpp) | [Leetcode](https://leetcode.com/problems/binary-tree-right-side-view/) |
 |5  | [Binary Tree Zigzag Level Order Traversal](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/ZigZagLevelOrderTraversal.cpp) | [Leetcode](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |
+|6  | [Balanced Binary Tree](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/BalancedBinaryTree.cpp) | [Leetcode](https://leetcode.com/problems/balanced-binary-tree/) |
