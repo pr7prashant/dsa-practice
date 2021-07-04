@@ -101,3 +101,4 @@
 |6  | [Balanced Binary Tree](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/BalancedBinaryTree.cpp) | [Leetcode](https://leetcode.com/problems/balanced-binary-tree/) |
 |7  | [Diagonal Traversal of Binary Tree](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/DiagonalTraversal.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1#) |
 |8  | [Boundary Traversal of Binary Tree](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/BoundaryTraversal.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1#) |
+|9  | [Flatten Binary Tree to Linked List](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/BinaryTreeToLinkedList.cpp) | [Leetcode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) |
