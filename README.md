@@ -100,3 +100,4 @@
 |5  | [Binary Tree Zigzag Level Order Traversal](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/ZigZagLevelOrderTraversal.cpp) | [Leetcode](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |
 |6  | [Balanced Binary Tree](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/BalancedBinaryTree.cpp) | [Leetcode](https://leetcode.com/problems/balanced-binary-tree/) |
 |7  | [Diagonal Traversal of Binary Tree](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/DiagonalTraversal.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1#) |
+|8  | [Boundary Traversal of Binary Tree](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/BoundaryTraversal.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1#) |
