@@ -105,3 +105,4 @@
 |10  | [Transform to Sum Tree](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/TransformToSumTree.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1#) |
 |11  | [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/BinaryTreeFromPreorderAndInorder.cpp) | [Leetcode](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |
 |12  | [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/BinaryTreeFromPostorderAndInorder.cpp) | [Leetcode](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) |
+|13  | [Find Duplicate Subtrees](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/FindDuplicateSubtree.cpp) | [Leetcode](https://leetcode.com/problems/find-duplicate-subtrees/) |
