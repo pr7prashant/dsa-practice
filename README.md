@@ -107,3 +107,4 @@
 |12  | [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/BinaryTreeFromPostorderAndInorder.cpp) | [Leetcode](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) |
 |13  | [Find Duplicate Subtrees](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/FindDuplicateSubtree.cpp) | [Leetcode](https://leetcode.com/problems/find-duplicate-subtrees/) |
 |14  | [Binary Tree Maximum Path Sum](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/MaximumPathSum.cpp) | [Leetcode](https://leetcode.com/problems/binary-tree-maximum-path-sum/) |
+|15  | [All Root to Leaf Paths with K Sum](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/RootToLeafPathsWithKSum.cpp) | [Leetcode](https://leetcode.com/problems/path-sum-ii/) |
