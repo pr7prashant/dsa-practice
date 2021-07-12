@@ -109,3 +109,4 @@
 |14  | [Binary Tree Maximum Path Sum](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/MaximumPathSum.cpp) | [Leetcode](https://leetcode.com/problems/binary-tree-maximum-path-sum/) |
 |15  | [All Root to Leaf Paths with K Sum](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/RootToLeafPathsWithKSum.cpp) | [Leetcode](https://leetcode.com/problems/path-sum-ii/) |
 |16  | [All K Sum Paths in a Binary Tree](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/AllKSumPaths.cpp) | [Leetcode](https://leetcode.com/problems/path-sum-iii/) |
+|17  | [Lowest Common Ancestor of a Binary Tree](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/LowestCommonAncestor.cpp) | [Leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
