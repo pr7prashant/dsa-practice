@@ -69,6 +69,14 @@ public:
 /*
 
 **************** Logic ****************
-Traverse both trees using DFS and compare the corresponding nodes.
+Two null trees are flip equivalent
+A non-null and null tree are NOT flip equivalent
+Two non-null trees with different root values are NOT flip equivalent
+Two non-null trees are flip equivalent if
+     The left subtree of tree1 is flip equivalent with the left subtree of tree2 and the right subtree of tree1 is   
+     flipequivalent with the right subtree of tree2 (no flip case)
+     OR
+     The right subtree of tree1 is flip equivalent with the left subtree of tree2 and the left subtree of tree1 is
+     flipequivalent with the right subtree of tree2 (flip case)
 
 */
