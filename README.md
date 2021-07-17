@@ -120,3 +120,4 @@
 | --- | --------- | --------- |
 |1  | [Delete Node in a BST](https://github.com/pr7prashant/dsa-practice/blob/master/BinarySearchTree/DeleteNodeInBST.cpp) | [Leetcode](https://leetcode.com/problems/delete-node-in-a-bst/) |
 |2  | [Validate Binary Search Tree](https://github.com/pr7prashant/dsa-practice/blob/master/BinarySearchTree/ValidateBST.cpp) | [Leetcode](https://leetcode.com/problems/validate-binary-search-tree/) |
+|3  | [Lowest Common Ancestor of a Binary Search Tree](https://github.com/pr7prashant/dsa-practice/blob/master/BinarySearchTree/LowestCommonAncestor.cpp) | [Leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |
