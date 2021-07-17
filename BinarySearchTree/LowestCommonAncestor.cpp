@@ -28,7 +28,6 @@ According to the definition of LCA on Wikipedia:
 */
 
 
-
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
