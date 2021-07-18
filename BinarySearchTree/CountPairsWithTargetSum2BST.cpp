@@ -5,14 +5,17 @@ Given two BSTs containing N1 and N2 distinct nodes respectively and given a valu
 Your task is to complete the function countPairs(), that returns the count of all pairs from both the BSTs whose sum is equal to x.
 
   
-  Input : BST 1:    
+    Input : 
+        
+        BST 1:    
                   5        
                 /   \      
                3     7      
               / \   / \    
              2  4  6   8   
 
-        BST 2:    10        
+        BST 2:
+                 10        
                 /   \      
                6     15      
               / \   /  \    
@@ -20,9 +23,9 @@ Your task is to complete the function countPairs(), that returns the count of al
         
         x = 16
     
-Output : 3
-The pairs are:
-(5, 11), (6, 10) and (8, 8)
+    Output : 3
+    
+    Explaination : The pairs are: (5, 11), (6, 10) and (8, 8)
   
 */
 
