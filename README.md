@@ -126,3 +126,4 @@
 |6  | [Balance a Binary Search Tree](https://github.com/pr7prashant/dsa-practice/blob/master/BinarySearchTree/BalanceBST.cpp) | [Leetcode](https://leetcode.com/problems/balance-a-binary-search-tree/) |
 |7  | [Kth Smallest Element in a BST](https://github.com/pr7prashant/dsa-practice/blob/master/BinarySearchTree/KthSmallestElement.cpp) | [Leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |
 |8  | [Count Pairs From 2 BST with K Sum](https://github.com/pr7prashant/dsa-practice/blob/master/BinarySearchTree/CountPairsWithTargetSum2BST.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/brothers-from-different-root/1#) |
+|9  | [Check whether BST contains Dead End](https://github.com/pr7prashant/dsa-practice/blob/master/BinarySearchTree/CheckDeadEnd.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1#) |
