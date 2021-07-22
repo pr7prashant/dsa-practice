@@ -14,6 +14,7 @@
 |7  | [Two Pointers](#7-Two-Pointers) |
 |8  | [Binary Tree](#8-Binary-Tree) |
 |9  | [Binary Search Tree](#9-Binary-Search-Tree) |
+|10  | [Heap](#10-Heap) |
 
 ### 1. Array
 | No. | Problem | Practice Link |
@@ -128,3 +129,8 @@
 |8  | [Count Pairs From 2 BST with K Sum](https://github.com/pr7prashant/dsa-practice/blob/master/BinarySearchTree/CountPairsWithTargetSum2BST.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/brothers-from-different-root/1#) |
 |9  | [Check whether BST contains Dead End](https://github.com/pr7prashant/dsa-practice/blob/master/BinarySearchTree/CheckDeadEnd.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1#) |
 |10  | [Largest BST in a Binary Tree](https://github.com/pr7prashant/dsa-practice/blob/master/BinarySearchTree/LargestBSTInBinaryTree.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/largest-bst/1#) |
+
+### 10. Heap
+| No. | Problem | Practice Link |
+| --- | --------- | --------- |
+|1  | [Heap Sort](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/HeapSort.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/heap-sort/1#) |
