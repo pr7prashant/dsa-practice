@@ -58,6 +58,7 @@
 |4  | [Rotting Oranges](https://github.com/pr7prashant/dsa-practice/blob/master/Queue/RottingOranges.cpp) | [Leetcode](https://leetcode.com/problems/rotting-oranges/) |
 |5  | [Nearest zero in a binary matrix](https://github.com/pr7prashant/dsa-practice/blob/master/Queue/NearestZeroInMatrix.cpp) | [Leetcode](https://leetcode.com/problems/01-matrix/) |
 |6  | [First non-repeating character in a stream](https://github.com/pr7prashant/dsa-practice/blob/master/Queue/FirstNonRepeatingCharacter.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1#) |
+|7  | [Sliding Window Maximum](https://github.com/pr7prashant/dsa-practice/blob/master/Queue/SlidingWindowMaximum.cpp) | [Leetcode](https://leetcode.com/problems/sliding-window-maximum/) |
 
 ### 5. Linked List
 | No. | Problem | Practice Link |
