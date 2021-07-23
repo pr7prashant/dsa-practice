@@ -135,3 +135,4 @@
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Heap Sort](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/HeapSort.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/heap-sort/1#) |
+|2  | [Sliding Window Maximum](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/SlidingWindowMaximum.cpp) | [Leetcode](https://leetcode.com/problems/sliding-window-maximum/) |
