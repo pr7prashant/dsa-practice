@@ -138,3 +138,4 @@
 |2  | [Sliding Window Maximum](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/SlidingWindowMaximum.cpp) | [Leetcode](https://leetcode.com/problems/sliding-window-maximum/) |
 |3  | [Merge k Sorted Lists](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/MergeKSortedLists.cpp) | [Leetcode](https://leetcode.com/problems/merge-k-sorted-lists/) |
 |4  | [Merge Two Binary Max Heaps](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/MergeTwoMaxHeaps.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1#) |
+|5  | [Reorganize String](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/ReorganizeString.cpp) | [Leetcode](https://leetcode.com/problems/reorganize-string/) |
