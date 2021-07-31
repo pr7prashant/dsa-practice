@@ -117,6 +117,7 @@
 |18  | [Minimum distance between two nodes of a Binary Tree](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/MinDistanceBetweenTwoNodes.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1#) |
 |19  | [Tree Isomorphism Problem](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/TreeIsomorphism.cpp) | [Leetcode](https://leetcode.com/problems/flip-equivalent-binary-trees/) |
 |20  | [Populate Inorder Successor for all nodes](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/PopulateInorderSuccessor.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1#) |
+|21  | [Check Completeness of a Binary Tree](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/CheckCompleteness.cpp) | [Leetcode](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) |
 
 ### 9. Binary Search Tree
 | No. | Problem | Practice Link |
