@@ -143,3 +143,4 @@
 |5  | [Reorganize String](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/ReorganizeString.cpp) | [Leetcode](https://leetcode.com/problems/reorganize-string/) |
 |6  | [Smallest Range Covering Elements from K Lists](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/SmallestRangeCoveringKLists.cpp) | [Leetcode](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) |
 |7  | [Find Median from Data Stream](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/FindMedianFromStream.cpp) | [Leetcode](https://leetcode.com/problems/find-median-from-data-stream/) |
+|8  | [Check if a Binary Tree is Heap](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/IsBinaryTreeHeap.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/is-binary-tree-heap/1#) |
