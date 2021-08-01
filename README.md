@@ -150,3 +150,4 @@
 |12  | [Top K Frequent Elements](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/TopKFrequentElements.cpp) | [Leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
 |13  | [Sort Array by Increasing Frequency](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/FrequencySort.cpp) | [Leetcode](https://leetcode.com/problems/sort-array-by-increasing-frequency/) |
 |14  | [K Closest Points to Origin](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/KClosestPointsToOrigin.cpp) | [Leetcode](https://leetcode.com/problems/k-closest-points-to-origin/) |
+|15  | [Minimum Cost to Connect Ropes](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/MinCostToConnectRopes.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1#) |
