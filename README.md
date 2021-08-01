@@ -148,3 +148,4 @@
 |10  | [Sort a K Sorted Array](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/SortKSortedArray.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/nearly-sorted-algorithm/0#) |
 |11  | [Find K Closest Elements](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/KClosestElements.cpp) | [Leetcode](https://leetcode.com/problems/find-k-closest-elements/) |
 |12  | [Top K Frequent Elements](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/TopKFrequentElements.cpp) | [Leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
+|13  | [Sort Array by Increasing Frequency](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/FrequencySort.cpp) | [Leetcode](https://leetcode.com/problems/sort-array-by-increasing-frequency/) |
