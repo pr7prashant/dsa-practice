@@ -145,3 +145,4 @@
 |7  | [Find Median from Data Stream](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/FindMedianFromStream.cpp) | [Leetcode](https://leetcode.com/problems/find-median-from-data-stream/) |
 |8  | [Check if a Binary Tree is Heap](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/IsBinaryTreeHeap.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/is-binary-tree-heap/1#) |
 |9  | [Kth Largest Element in an Array](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/KthLargestElement.cpp) | [Leetcode](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
+|10  | [Sort a K Sorted Array](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/SortKSortedArray.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/nearly-sorted-algorithm/0#) |
