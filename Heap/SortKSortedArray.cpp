@@ -88,7 +88,7 @@ int main() {
 
 **************** Logic ****************
 Create a min heap of size k. Iterate the array and insert the elements in heap.
-If the size of heap becomes greater than k then then the next smallest element in the array will be at top,
+If the size of heap becomes greater than k then the next smallest element in the array will be at top,
 as the array is k sorted.
 
 */
