@@ -149,3 +149,4 @@
 |11  | [Find K Closest Elements](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/KClosestElements.cpp) | [Leetcode](https://leetcode.com/problems/find-k-closest-elements/) |
 |12  | [Top K Frequent Elements](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/TopKFrequentElements.cpp) | [Leetcode](https://leetcode.com/problems/top-k-frequent-elements/) |
 |13  | [Sort Array by Increasing Frequency](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/FrequencySort.cpp) | [Leetcode](https://leetcode.com/problems/sort-array-by-increasing-frequency/) |
+|14  | [K Closest Points to Origin](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/KClosestPointsToOrigin.cpp) | [Leetcode](https://leetcode.com/problems/k-closest-points-to-origin/) |
