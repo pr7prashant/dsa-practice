@@ -15,6 +15,7 @@
 |8  | [Binary Tree](#8-Binary-Tree) |
 |9  | [Binary Search Tree](#9-Binary-Search-Tree) |
 |10  | [Heap](#10-Heap) |
+|11  | [Graph](#11-Graph) |
 
 ### 1. Array
 | No. | Problem | Practice Link |
@@ -152,3 +153,8 @@
 |14  | [K Closest Points to Origin](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/KClosestPointsToOrigin.cpp) | [Leetcode](https://leetcode.com/problems/k-closest-points-to-origin/) |
 |15  | [Minimum Cost to Connect Ropes](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/MinCostToConnectRopes.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1#) |
 |16  | [Minimum Sum of Squares of Frequency after Removing K Characters](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/MinSumAfterRemovingKChars.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/game-with-string4100/1#) |
+
+### 11. Graph
+| No. | Problem | Practice Link |
+| --- | --------- | --------- |
+|1  | [Create and Print a Graph](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/CreateGraph.cpp) | [-](-) |
