@@ -100,6 +100,7 @@
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Sort a stack recursively](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/SortStack.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/sort-a-stack/1#) |
+|2  | [Delete Middle Element from Stack](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/DeleteMiddleElementStack.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1#) |
 
 ### 9. Binary Tree
 | No. | Problem | Practice Link |
