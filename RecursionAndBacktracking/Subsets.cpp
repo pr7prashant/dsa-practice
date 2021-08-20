@@ -24,20 +24,19 @@ class Solution {
 public:
     vector<vector<int>> powerset;
     
-    void findSubsets(vector<int>& nums, int idx, vector<int> op) {
-        if (idx == nums.size()) {
-            powerset.push_back(op);
-            return;
-        }
+    void backtrack(vector<int>& nums, vector<int>& temp, int start) {
+        powerset.push_back(temp);
         
-        findSubsets(nums, idx + 1, op);
-        op.push_back(nums[idx]);
-        findSubsets(nums, idx + 1, op);
+        for (int i = start; i < nums.size(); i++) {
+            temp.push_back(nums[i]);
+            backtrack(nums, temp, i + 1);
+            temp.pop_back();
+        }
     }
     
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<int> op;
-        findSubsets(nums, 0, op);
+        vector<int> temp;
+        backtrack(nums, temp, 0);
         return powerset;
     }
 };
@@ -45,8 +44,6 @@ public:
 /*
 
 **************** Logic ****************
-For each item in the array we can either select it or reject it.
-Recursively create a tree by iterating over the array and for each item create two path (select and reject).
-The subsets will be present at the leaf nodes.
+Use backtracking to create different subsets.
 
 */
