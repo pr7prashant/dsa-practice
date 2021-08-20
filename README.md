@@ -104,6 +104,7 @@
 |3  | [K-th Symbol in Grammar](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/KthSymbolInGrammar.cpp) | [Leetcode](https://leetcode.com/problems/k-th-symbol-in-grammar/) |
 |4  | [Tower of Hanoi](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/TowerOfHanoi.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1#) |
 |5  | [Subsets](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/Subsets.cpp) | [Leetcode](https://leetcode.com/problems/subsets/) |
+|6  | [Subsets 2](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/Subsets2.cpp) | [Leetcode](https://leetcode.com/problems/subsets-ii/) |
 
 ### 9. Binary Tree
 | No. | Problem | Practice Link |
