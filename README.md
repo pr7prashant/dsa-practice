@@ -107,6 +107,7 @@
 |6  | [Subsets 2](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/Subsets2.cpp) | [Leetcode](https://leetcode.com/problems/subsets-ii/) |
 |7  | [Combinations](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/Combinations.cpp) | [Leetcode](https://leetcode.com/problems/combinations/) |
 |8  | [Permutations](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/Permutations.cpp) | [Leetcode](https://leetcode.com/problems/permutations/) |
+|9  | [Permutations 2](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/Permutations2.cpp) | [Leetcode](https://leetcode.com/problems/permutations-ii/) |
 
 ### 9. Binary Tree
 | No. | Problem | Practice Link |
