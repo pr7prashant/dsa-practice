@@ -113,6 +113,7 @@
 |12  | [Generate Parentheses](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/GenerateParentheses.cpp) | [Leetcode](https://leetcode.com/problems/generate-parentheses/) |
 |13  | [Josephus Problem](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/JosephusProblem.cpp) | [Leetcode](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) |
 |14  | [Rat in Maze](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/RatInMaze.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#) |
+|15  | [N Queen Problem](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/NQueens.cpp) | [Leetcode](https://leetcode.com/problems/n-queens/) |
 
 ### 9. Binary Tree
 | No. | Problem | Practice Link |
