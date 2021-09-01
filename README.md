@@ -118,6 +118,7 @@
 |17  | [Remove Invalid Parentheses](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/RemoveInvalidParentheses.cpp) | [Leetcode](https://leetcode.com/problems/remove-invalid-parentheses/) |
 |18  | [Sudoku Solver](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/SudokuSolver.cpp) | [Leetcode](https://leetcode.com/problems/sudoku-solver/) |
 |19  | [Combination Sum](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/CombinationSum.cpp) | [Leetcode](https://leetcode.com/problems/combination-sum/) |
+|20  | [Combination Sum 2](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/CombinationSum2.cpp) | [Leetcode](https://leetcode.com/problems/combination-sum-ii/) |
 
 ### 9. Binary Tree
 | No. | Problem | Practice Link |
