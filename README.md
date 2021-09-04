@@ -12,11 +12,12 @@
 |5  | [Linked List](#5-Linked-List) |
 |6  | [Sorting](#6-Sorting) |
 |7  | [Two Pointers](#7-Two-Pointers) |
-|8  | [Recursion and Backtracking](#8-Recursion-and-Backtracking) |
-|9  | [Binary Tree](#9-Binary-Tree) |
-|10  | [Binary Search Tree](#10-Binary-Search-Tree) |
-|11  | [Heap](#11-Heap) |
-|12  | [Graph](#12-Graph) |
+|8  | [Greedy](#8-Greedy) |
+|9  | [Recursion and Backtracking](#9-Recursion-and-Backtracking) |
+|10  | [Binary Tree](#10-Binary-Tree) |
+|11  | [Binary Search Tree](#11-Binary-Search-Tree) |
+|12  | [Heap](#12-Heap) |
+|13  | [Graph](#13-Graph) |
 
 ### 1. Array
 | No. | Problem | Practice Link |
@@ -96,7 +97,12 @@
 | --- | --------- | --------- |
 |1  | [The Celebrity Problem](https://github.com/pr7prashant/dsa-practice/blob/master/TwoPointers/CelebrityProblem.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1) |
 
-### 8. Recursion and Backtracking
+### 8. Greedy
+| No. | Problem | Practice Link |
+| --- | --------- | --------- |
+|1  | [N Meetings in One Room](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/MeetingRoom.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#) |
+
+### 9. Recursion and Backtracking
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Sort a stack recursively](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/SortStack.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/sort-a-stack/1#) |
@@ -122,7 +128,7 @@
 |21  | [Largest Number in K Swaps](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/LargestNumberInKSwaps.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1#) |
 |22  | [Partition a Set into K Equal Sum Subsets](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/PartitionToKEqualSumSubsets.cpp) | [Leetcode](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) |
 
-### 9. Binary Tree
+### 10. Binary Tree
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Binary Tree Level Order Traversal](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/LevelOrderTraversal.cpp) | [Leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
@@ -147,7 +153,7 @@
 |20  | [Populate Inorder Successor for all nodes](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/PopulateInorderSuccessor.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1#) |
 |21  | [Check Completeness of a Binary Tree](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/CheckCompleteness.cpp) | [Leetcode](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) |
 
-### 10. Binary Search Tree
+### 11. Binary Search Tree
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Delete Node in a BST](https://github.com/pr7prashant/dsa-practice/blob/master/BinarySearchTree/DeleteNodeInBST.cpp) | [Leetcode](https://leetcode.com/problems/delete-node-in-a-bst/) |
@@ -161,7 +167,7 @@
 |9  | [Check whether BST contains Dead End](https://github.com/pr7prashant/dsa-practice/blob/master/BinarySearchTree/CheckDeadEnd.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1#) |
 |10  | [Largest BST in a Binary Tree](https://github.com/pr7prashant/dsa-practice/blob/master/BinarySearchTree/LargestBSTInBinaryTree.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/largest-bst/1#) |
 
-### 11. Heap
+### 12. Heap
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Heap Sort](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/HeapSort.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/heap-sort/1#) |
@@ -181,7 +187,7 @@
 |15  | [Minimum Cost to Connect Ropes](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/MinCostToConnectRopes.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1#) |
 |16  | [Minimum Sum of Squares of Frequency after Removing K Characters](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/MinSumAfterRemovingKChars.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/game-with-string4100/1#) |
 
-### 12. Graph
+### 13. Graph
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Create and Print a Graph](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/CreateGraph.cpp) | [-](-) |
