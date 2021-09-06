@@ -186,6 +186,7 @@
 |14  | [K Closest Points to Origin](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/KClosestPointsToOrigin.cpp) | [Leetcode](https://leetcode.com/problems/k-closest-points-to-origin/) |
 |15  | [Minimum Cost to Connect Ropes](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/MinCostToConnectRopes.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1#) |
 |16  | [Minimum Sum of Squares of Frequency after Removing K Characters](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/MinSumAfterRemovingKChars.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/game-with-string4100/1#) |
+|17  | [Huffman Encoding](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/HuffmanEncoding.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/huffman-encoding3345/1#) |
 
 ### 13. Graph
 | No. | Problem | Practice Link |
