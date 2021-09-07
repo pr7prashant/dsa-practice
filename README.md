@@ -102,6 +102,7 @@
 | --- | --------- | --------- |
 |1  | [N Meetings in One Room](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/MeetingRoom.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#) |
 |2  | [Huffman Encoding](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/HuffmanEncoding.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/huffman-encoding3345/1#) |
+|3  | [Knapsack Problem](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/KnapsackProblem.cpp) | [Leetcode](https://leetcode.com/problems/maximum-units-on-a-truck/) |
 
 ### 9. Recursion and Backtracking
 | No. | Problem | Practice Link |
