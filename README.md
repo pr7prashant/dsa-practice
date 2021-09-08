@@ -36,6 +36,7 @@
 |2  | [Minimum Window substring](https://github.com/pr7prashant/dsa-practice/blob/master/Array/MinimumWindowSubstring.cpp) | [Leetcode](https://leetcode.com/problems/minimum-window-substring/) |
 |3  | [Count Occurences of Anagrams](https://github.com/pr7prashant/dsa-practice/blob/master/Array/CountOccurencesOfAnagrams.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/1#) |
 |4  | [Reorganize String](https://github.com/pr7prashant/dsa-practice/blob/master/String/ReorganizeString.cpp) | [Leetcode](https://leetcode.com/problems/reorganize-string/) |
+|5  | [Choose and Swap](https://github.com/pr7prashant/dsa-practice/blob/master/String/ChooseAndSwap.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/choose-and-swap0531/1#) |
 
 ### 3. Stack
 | No. | Problem | Practice Link |
