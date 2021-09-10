@@ -106,6 +106,7 @@
 |3  | [Knapsack Problem](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/KnapsackProblem.cpp) | [Leetcode](https://leetcode.com/problems/maximum-units-on-a-truck/) |
 |4  | [Choose and Swap](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/ChooseAndSwap.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/choose-and-swap0531/1#) |
 |5  | [Minimum Platforms](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/MinimumPlatforms.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#) |
+|6  | [Best Time to Buy and Sell Stock 2](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/BuyAndSellStock2.cpp) | [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |
 
 ### 9. Recursion and Backtracking
 | No. | Problem | Practice Link |
