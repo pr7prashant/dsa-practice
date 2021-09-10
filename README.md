@@ -105,6 +105,7 @@
 |2  | [Huffman Encoding](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/HuffmanEncoding.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/huffman-encoding3345/1#) |
 |3  | [Knapsack Problem](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/KnapsackProblem.cpp) | [Leetcode](https://leetcode.com/problems/maximum-units-on-a-truck/) |
 |4  | [Choose and Swap](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/ChooseAndSwap.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/choose-and-swap0531/1#) |
+|5  | [Minimum Platforms](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/MinimumPlatforms.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#) |
 
 ### 9. Recursion and Backtracking
 | No. | Problem | Practice Link |
