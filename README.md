@@ -107,6 +107,7 @@
 |4  | [Choose and Swap](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/ChooseAndSwap.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/choose-and-swap0531/1#) |
 |5  | [Minimum Platforms](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/MinimumPlatforms.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#) |
 |6  | [Best Time to Buy and Sell Stock 2](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/BuyAndSellStock2.cpp) | [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |
+|7  | [Maximize Sum Of Array After K Negations](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/MaxSumAfterKNegations.cpp) | [Leetcode](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) |
 
 ### 9. Recursion and Backtracking
 | No. | Problem | Practice Link |
