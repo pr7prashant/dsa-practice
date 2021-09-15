@@ -109,6 +109,7 @@
 |6  | [Best Time to Buy and Sell Stock 2](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/BuyAndSellStock2.cpp) | [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |
 |7  | [Maximize Sum Of Array After K Negations](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/MaxSumAfterKNegations.cpp) | [Leetcode](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) |
 |8  | [Defence of a Kingdom](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/DefenceOfAKingdom.cpp) | [Codechef](https://www.codechef.com/problems/WCE0004) |
+|9  | [Die Hard](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/DieHard.cpp) | [SPOJ](https://www.spoj.com/problems/DIEHARD/) |
 
 ### 9. Recursion and Backtracking
 | No. | Problem | Practice Link |
