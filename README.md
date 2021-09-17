@@ -111,6 +111,7 @@
 |8  | [Defence of a Kingdom](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/DefenceOfAKingdom.cpp) | [Codechef](https://www.codechef.com/problems/WCE0004) |
 |9  | [Die Hard](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/DieHard.cpp) | [SPOJ](https://www.spoj.com/problems/DIEHARD/) |
 |10  | [Wine Trading in Gergovia](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/WineTrading.cpp) | [SPOJ](https://www.spoj.com/problems/GERGOVIA/) |
+|11  | [Chocolate](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/Chocolate.cpp) | [SPOJ](https://www.spoj.com/problems/CHOCOLA/) |
 
 ### 9. Recursion and Backtracking
 | No. | Problem | Practice Link |
