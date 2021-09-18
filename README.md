@@ -112,6 +112,7 @@
 |9  | [Die Hard](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/DieHard.cpp) | [SPOJ](https://www.spoj.com/problems/DIEHARD/) |
 |10  | [Wine Trading in Gergovia](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/WineTrading.cpp) | [SPOJ](https://www.spoj.com/problems/GERGOVIA/) |
 |11  | [Chocolate](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/Chocolate.cpp) | [SPOJ](https://www.spoj.com/problems/CHOCOLA/) |
+|12  | [Arranging Amplifiers](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/ArrangingAmplifiers.cpp) | [SPOJ](https://www.spoj.com/problems/ARRANGE/) |
 
 ### 9. Recursion and Backtracking
 | No. | Problem | Practice Link |
