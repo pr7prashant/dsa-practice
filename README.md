@@ -114,6 +114,7 @@
 |11  | [Chocolate](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/Chocolate.cpp) | [SPOJ](https://www.spoj.com/problems/CHOCOLA/) |
 |12  | [Arranging Amplifiers](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/ArrangingAmplifiers.cpp) | [SPOJ](https://www.spoj.com/problems/ARRANGE/) |
 |13  | [Smallest Number with Sum S and D Digits](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/SmallestNumber.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/smallest-number5829/1#) |
+|14  | [Reorganize String](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/ReorganizeString.cpp) | [Leetcode](https://leetcode.com/problems/reorganize-string/) |
 
 ### 9. Recursion and Backtracking
 | No. | Problem | Practice Link |
