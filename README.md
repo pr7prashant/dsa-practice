@@ -206,3 +206,4 @@
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Create and Print a Graph](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/CreateGraph.cpp) | [-](-) |
+|2  | [BFS Traversal Starting From a Given Vertex](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/BFSTraversal.cpp) | [-](-) |
