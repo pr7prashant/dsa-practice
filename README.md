@@ -213,3 +213,4 @@
 |6  | [Minimum Steps By Knight](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/MinStepsByKnight.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1#) |
 |7  | [Flood Fill](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/FloodFill.cpp) | [Leetcode](https://leetcode.com/problems/flood-fill/) |
 |8  | [Clone Graph](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/CloneGraph.cpp) | [Leetcode](https://leetcode.com/problems/clone-graph/) |
+|9  | [Number of Operations to Make Network Connected](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/ConnectNetworks.cpp) | [Leetcode](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) |
