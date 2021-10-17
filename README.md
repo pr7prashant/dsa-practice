@@ -215,3 +215,4 @@
 |8  | [Clone Graph](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/CloneGraph.cpp) | [Leetcode](https://leetcode.com/problems/clone-graph/) |
 |9  | [Number of Operations to Make Network Connected](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/ConnectNetworks.cpp) | [Leetcode](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) |
 |10  | [Word Ladder](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/WordLadder.cpp) | [Leetcode](https://leetcode.com/problems/word-ladder/) |
+|11  | [Djikstra's Algorithm](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/Djikstra.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1#) |
