@@ -218,3 +218,4 @@
 |11  | [Djikstra's Algorithm](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/Djikstra.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1#) |
 |12  | [Topological Sort](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/TopologicalSort.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/topological-sort/1#) |
 |13  | [Number of Islands](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/NumberOfIslands.cpp) | [Leetcode](https://leetcode.com/problems/number-of-islands/) |
+|14  | [Alien Dictionary](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/AlienDictionary.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/alien-dictionary/1#) |
