@@ -217,3 +217,4 @@
 |10  | [Word Ladder](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/WordLadder.cpp) | [Leetcode](https://leetcode.com/problems/word-ladder/) |
 |11  | [Djikstra's Algorithm](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/Djikstra.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1#) |
 |12  | [Topological Sort](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/TopologicalSort.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/topological-sort/1#) |
+|13  | [Number of Islands](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/NumberOfIslands.cpp) | [Leetcode](https://leetcode.com/problems/number-of-islands/) |
