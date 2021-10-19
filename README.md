@@ -220,3 +220,4 @@
 |13  | [Number of Islands](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/NumberOfIslands.cpp) | [Leetcode](https://leetcode.com/problems/number-of-islands/) |
 |14  | [Alien Dictionary](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/AlienDictionary.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/alien-dictionary/1#) |
 |15  | [Kruskal's Algorithm](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/Kruskal.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1#) |
+|16  | [Prim's Algorithm](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/Prim.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1#) |
