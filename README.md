@@ -223,3 +223,4 @@
 |16  | [Prim's Algorithm](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/Prim.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1#) |
 |17  | [Bellman Ford Algorithm](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/BellmanFord.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/negative-weight-cycle3504/1#) |
 |18  | [Floyd Warshall Algorithm](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/FloydWarshall.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1#) |
+|19  | [Hamiltonian Path](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/HamiltonianPath.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/hamiltonian-path2522/1#) |
