@@ -228,3 +228,4 @@
 |21  | [Graph Coloring Problem](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/GraphColoring.cpp) | [-](-) |
 |22  | [M Coloring Problem](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/MColoring.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1#) |
 |23  | [Snakes and Ladders](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/SnakesAndLadders.cpp) | [Leetcode](https://leetcode.com/problems/snakes-and-ladders/) |
+|24  | [Bridges In Graph](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/BridgesInGraph.cpp) | [-](-) |
