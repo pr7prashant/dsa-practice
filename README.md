@@ -226,3 +226,4 @@
 |19  | [Hamiltonian Path](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/HamiltonianPath.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/hamiltonian-path2522/1#) |
 |20  | [Travelling Salesman Problem](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/TravellingSalesman.cpp) | [-](-) |
 |21  | [Graph Coloring Problem](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/GraphColoring.cpp) | [-](-) |
+|22  | [M Coloring Problem](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/MColoring.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1#) |
