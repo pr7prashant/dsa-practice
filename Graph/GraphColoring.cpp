@@ -56,9 +56,8 @@ using namespace std;
 // Colors :  [f, f, f, f, f] Whether the color is used or not
 // Nodes :   [0, -1, -1, -1, -1] Color used By each node
 // Visited : [t, f, f, f, f] Whether the node is already colored or not
-
-void getMinColors(map<int, vector<int>> &graph, vector<int> &nodes, vector<bool> &visited, int V, int src) {
-    visited[src] = true;
+void getMinColors(map<int, vector<int>> &graph, vector<int> &nodes, int V, int src) { 
+    if (src == V) return;
     
     // Mark the colors already used by neighbours
     vector<bool> colors(V, false);
@@ -74,12 +73,7 @@ void getMinColors(map<int, vector<int>> &graph, vector<int> &nodes, vector<bool>
         }
     }
     
-    // Visit All Neighbours
-    for (int n : graph[src]) {
-        if (!visited[n]) {
-            getMinColors(graph, nodes, visited, V, n);
-        }
-    }
+    getMinColors(graph, nodes, V, src + 1);
 }
 
 int main(){
@@ -108,9 +102,8 @@ int main(){
     }
     
     vector<int> nodes(V, -1);
-    vector<bool> visited(V, false);
     
-    getMinColors(graph, nodes, visited, V, 0);
+    getMinColors(graph, nodes, V, 0);
     
     cout << "Minimum Colors Required : " << *max_element(nodes.begin(), nodes.end()) + 1 << endl;
     
