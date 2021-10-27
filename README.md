@@ -230,4 +230,5 @@
 |23  | [Snakes and Ladders](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/SnakesAndLadders.cpp) | [Leetcode](https://leetcode.com/problems/snakes-and-ladders/) |
 |24  | [Bridges In Graph](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/BridgesInGraph.cpp) | [-](-) |
 |25  | [Kosaraju's Algorithm](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/Kosaraju.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1#) |
-|26  | [Longest Path in a DAG ](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/LongestPathInDAG.cpp) | [-](-) |
+|26  | [Longest Path in a DAG](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/LongestPathInDAG.cpp) | [-](-) |
+|27  | [Journey to the Moon](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/JourneyToMoon.cpp) | [HackerRank](https://www.hackerrank.com/challenges/journey-to-the-moon/problem) |
