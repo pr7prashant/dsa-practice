@@ -232,3 +232,4 @@
 |25  | [Kosaraju's Algorithm](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/Kosaraju.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1#) |
 |26  | [Longest Path in a DAG](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/LongestPathInDAG.cpp) | [-](-) |
 |27  | [Journey to the Moon](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/JourneyToMoon.cpp) | [HackerRank](https://www.hackerrank.com/challenges/journey-to-the-moon/problem) |
+|28  | [Cheapest Flights Within K Stops](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/CheapestFlightsWithinKStops.cpp) | [Leetcode](https://leetcode.com/problems/cheapest-flights-within-k-stops/) |
