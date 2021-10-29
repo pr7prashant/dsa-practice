@@ -234,3 +234,4 @@
 |27  | [Journey to the Moon](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/JourneyToMoon.cpp) | [HackerRank](https://www.hackerrank.com/challenges/journey-to-the-moon/problem) |
 |28  | [Cheapest Flights Within K Stops](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/CheapestFlightsWithinKStops.cpp) | [Leetcode](https://leetcode.com/problems/cheapest-flights-within-k-stops/) |
 |29  | [Oliver and the Game](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/OliverAndTheGame.cpp) | [HackerEarth](https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/practice-problems/algorithm/oliver-and-the-game-3/) |
+|30  | [Water and Jug Problem](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/WaterAndJug.cpp) | [Leetcode](https://leetcode.com/problems/water-and-jug-problem/) |
