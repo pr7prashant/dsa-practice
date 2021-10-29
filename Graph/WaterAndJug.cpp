@@ -79,7 +79,6 @@ public:
             j2 = min(jug1 + jug2, jug2Capacity);
             j1 = max(jug1 - (j2 - jug2), 0);
             q.push({j1, j2});
-            // cout << "Push 6 : " << j2 << ", " << j2 << endl;
         }
         
         return false;
