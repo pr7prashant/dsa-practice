@@ -237,3 +237,4 @@
 |30  | [Water and Jug Problem](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/WaterAndJug.cpp) | [Leetcode](https://leetcode.com/problems/water-and-jug-problem/) |
 |31  | [Minimum edges to reverse to make path from source to destination](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/MinEdgesToReverse.cpp) | [-](-) |
 |32  | [Euler Graph](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/EulerGraph.cpp) | [-](-) |
+|33  | [Vertex Cover Problem](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/VertexCover.cpp) | [-](-) |
