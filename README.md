@@ -239,3 +239,4 @@
 |32  | [Euler Graph](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/EulerGraph.cpp) | [-](-) |
 |33  | [Vertex Cover Problem](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/VertexCover.cpp) | [-](-) |
 |34  | [Number of Triangles in Directed and Undirected Graphs](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/CountTriangles.cpp) | [-](-) |
+|35  | [Two Clique Problem](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/TwoClique.cpp) | [-](-) |
