@@ -18,6 +18,7 @@
 |11  | [Binary Search Tree](#11-Binary-Search-Tree) |
 |12  | [Heap](#12-Heap) |
 |13  | [Graph](#13-Graph) |
+|14  | [Trie](#14-Trie) |
 
 ### 1. Array
 | No. | Problem | Practice Link |
@@ -240,3 +241,8 @@
 |33  | [Vertex Cover Problem](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/VertexCover.cpp) | [-](-) |
 |34  | [Number of Triangles in Directed and Undirected Graphs](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/CountTriangles.cpp) | [-](-) |
 |35  | [Two Clique Problem](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/TwoClique.cpp) | [-](-) |
+
+### 14. Trie
+| No. | Problem | Practice Link |
+| --- | --------- | --------- |
+|1  | [Create Trie](https://github.com/pr7prashant/dsa-practice/blob/master/Trie/CreateTrie.cpp) | [-](-) |
