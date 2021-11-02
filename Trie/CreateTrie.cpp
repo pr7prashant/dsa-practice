@@ -1,7 +1,7 @@
 /*
 
 **************** Problem Description ****************
-Create a Trie with insert, delete and search functionality.
+Create a Trie with insert, delete, search and prefix functionality.
 
 */
 
@@ -78,7 +78,21 @@ class Trie {
                 curr = curr->next[idx];
             };
             
-            return curr->wordEnd > 0 ? true : false;
+            return curr->wordEnd > 0;
+        }
+    
+        bool startsWith(string word) {
+            TrieNode *curr = root;
+            
+            for (char w : word) {
+                int idx = w - 'a';
+                
+                if (!curr->next[idx]) return false;
+                
+                curr = curr->next[idx];
+            };
+            
+            return curr->wordCount > 0;
         }
 };
 
@@ -96,6 +110,8 @@ int main() {
     t->remove("app");
     
     cout << "Search app : " << t->search("app") << endl;
+    
+    cout << "Starts with app : " << t->startsWith("app") << endl;
     
 	return 0;
 }
