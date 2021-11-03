@@ -250,3 +250,4 @@
 |2  | [Shortest Unique Prefix](https://github.com/pr7prashant/dsa-practice/blob/master/Trie/ShortestUniquePrefix.cpp) | [InterviewBit](https://www.interviewbit.com/problems/shortest-unique-prefix/) |
 |3  | [Word Break](https://github.com/pr7prashant/dsa-practice/blob/master/Trie/WordBreak.cpp) | [Leetcode](https://leetcode.com/problems/word-break/) |
 |4  | [Phone Directory](https://github.com/pr7prashant/dsa-practice/blob/master/Trie/PhoneDirectory.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/phone-directory4628/1#) |
+|5  | [Unique rows in boolean matrix](https://github.com/pr7prashant/dsa-practice/blob/master/Trie/UniqueRowsInMatrix.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1#) |
