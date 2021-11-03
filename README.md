@@ -247,3 +247,4 @@
 | --- | --------- | --------- |
 |1  | [Create Trie](https://github.com/pr7prashant/dsa-practice/blob/master/Trie/CreateTrie.cpp) | [-](-) |
 |2  | [Shortest Unique Prefix](https://github.com/pr7prashant/dsa-practice/blob/master/Trie/ShortestUniquePrefix.cpp) | [InterviewBit](https://www.interviewbit.com/problems/shortest-unique-prefix/) |
+|3  | [Word Break](https://github.com/pr7prashant/dsa-practice/blob/master/Trie/WordBreak.cpp) | [Leetcode](https://leetcode.com/problems/word-break/) |
