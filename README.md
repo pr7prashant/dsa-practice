@@ -10,7 +10,7 @@
 |3  | [Stack](#3-Stack) |
 |4  | [Queue](#4-Queue) |
 |5  | [Linked List](#5-Linked-List) |
-|6  | [Sorting](#6-Sorting) |
+|6  | [Searching and Sorting](#6-Searching-and-Sorting) |
 |7  | [Two Pointers](#7-Two-Pointers) |
 |8  | [Greedy](#8-Greedy) |
 |9  | [Recursion and Backtracking](#9-Recursion-and-Backtracking) |
@@ -89,10 +89,11 @@
 |18  | [Delete nodes having greater value on right](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/DeleteNodeWithGreaterValOnRight.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1#) |
 |19  | [Segregate even and odd nodes in a Link List](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/SegregateEvenOdd.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list5035/1#) |
 
-### 6. Sorting
+### 6. Searching and Sorting
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
-|1  | [Merge Intervals](https://github.com/pr7prashant/dsa-practice/blob/master/Sorting/MergeIntervals.cpp) | [Leetcode](https://leetcode.com/problems/merge-intervals/) |
+|1  | [Merge Intervals](https://github.com/pr7prashant/dsa-practice/blob/master/SearchingAndSorting/MergeIntervals.cpp) | [Leetcode](https://leetcode.com/problems/merge-intervals/) |
+|2  | [Group Anagrams](https://github.com/pr7prashant/dsa-practice/blob/master/SearchingAndSorting/GroupAnagrams.cpp) | [Leetcode](https://leetcode.com/problems/group-anagrams/) |
 
 ### 7. Two Pointers
 | No. | Problem | Practice Link |
