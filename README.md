@@ -19,6 +19,7 @@
 |12  | [Heap](#12-Heap) |
 |13  | [Graph](#13-Graph) |
 |14  | [Trie](#14-Trie) |
+|15  | [Dynamic Programming](#15-Dynamic-Programming) |
 
 ### 1. Array
 | No. | Problem | Practice Link |
@@ -251,3 +252,8 @@
 |3  | [Word Break](https://github.com/pr7prashant/dsa-practice/blob/master/Trie/WordBreak.cpp) | [Leetcode](https://leetcode.com/problems/word-break/) |
 |4  | [Phone Directory](https://github.com/pr7prashant/dsa-practice/blob/master/Trie/PhoneDirectory.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/phone-directory4628/1#) |
 |5  | [Unique rows in boolean matrix](https://github.com/pr7prashant/dsa-practice/blob/master/Trie/UniqueRowsInMatrix.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1#) |
+
+### 15. Dynamic Programming
+| No. | Problem | Practice Link |
+| --- | --------- | --------- |
+|1  | [0-1 Knapsack Problem](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/01Knapsack.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1#) |
