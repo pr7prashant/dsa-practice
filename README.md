@@ -257,3 +257,4 @@
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [0-1 Knapsack Problem](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/01Knapsack.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1#) |
+|2  | [Subset Sum Problem](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/SubsetSum.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) |
