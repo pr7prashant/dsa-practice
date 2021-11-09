@@ -262,3 +262,4 @@
 |4  | [Count of subsets with sum equal to X](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/CountSubsetSum.cpp) | [-](-) |
 |5  | [Minimum Sum Partition](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/MinimumSumPartition.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1#) |
 |6  | [Target Sum](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/TargetSum.cpp) | [Leetcode](https://leetcode.com/problems/target-sum/) |
+|7  | [Unbounded Knapsack](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/UnboundedKnapsack.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1#) |
