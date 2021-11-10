@@ -264,3 +264,4 @@
 |6  | [Target Sum](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/TargetSum.cpp) | [Leetcode](https://leetcode.com/problems/target-sum/) |
 |7  | [Unbounded Knapsack](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/UnboundedKnapsack.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1#) |
 |8  | [Rod Cutting Problem](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/RodCutting.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/rod-cutting0840/1#) |
+|9  | [Coin Change 1](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/CoinChange1.cpp) | [Leetcode](https://leetcode.com/problems/coin-change) |
