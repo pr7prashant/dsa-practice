@@ -269,3 +269,4 @@
 |11  | [Longest Common Subsequence](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/LongestCommonSubsequence.cpp) | [Leetcode](https://leetcode.com/problems/longest-common-subsequence/) |
 |12  | [Longest Common Substring](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/LongestCommonSubstring.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1#) |
 |13  | [Minimum number of deletions and insertions to transform string A to B](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/MinInsertionAndDeletion.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1#) |
+|14  | [Shortest Common Supersequence](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/ShortestCommonSuperSequence.cpp) | [Leetcode](https://leetcode.com/problems/shortest-common-supersequence/) |
