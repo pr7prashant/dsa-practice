@@ -272,3 +272,4 @@
 |14  | [Shortest Common Supersequence](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/ShortestCommonSuperSequence.cpp) | [Leetcode](https://leetcode.com/problems/shortest-common-supersequence/) |
 |15  | [Longest Palindromic Supersequence](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/LongestPalindromicSubsequence.cpp) | [Leetcode](https://leetcode.com/problems/longest-palindromic-subsequence/) |
 |16  | [Longest Repeating Supersequence](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/LongestRepeatingSubsequence.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1#) |
+|17  | [Minimum Insertion Steps to Make a String Palindrome](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/MinInsertionToMakePalindrome.cpp) | [Leetcode](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) |
