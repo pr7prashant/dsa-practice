@@ -268,3 +268,4 @@
 |10  | [Coin Change 2](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/CoinChange2.cpp) | [Leetcode](https://leetcode.com/problems/coin-change-2/) |
 |11  | [Longest Common Subsequence](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/LongestCommonSubsequence.cpp) | [Leetcode](https://leetcode.com/problems/longest-common-subsequence/) |
 |12  | [Longest Common Substring](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/LongestCommonSubstring.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1#) |
+|13  | [Minimum number of deletions and insertions to transform string A to B](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/MinInsertionAndDeletion.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1#) |
