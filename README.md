@@ -275,3 +275,4 @@
 |17  | [Minimum Insertion Steps to Make a String Palindrome](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/MinInsertionToMakePalindrome.cpp) | [Leetcode](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) |
 |18  | [Matrix Chain Multiplication](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/MatrixChainMultiplication.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1#) |
 |19  | [Palindromic Partitioning](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/PalindromicPartitioning.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1#) |
+|20  | [Boolean Parenthesization](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/BooleanParenthesization.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/boolean-parenthesization5610/1#) |
