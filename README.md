@@ -276,3 +276,4 @@
 |18  | [Matrix Chain Multiplication](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/MatrixChainMultiplication.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1#) |
 |19  | [Palindromic Partitioning](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/PalindromicPartitioning.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1#) |
 |20  | [Boolean Parenthesization](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/BooleanParenthesization.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/boolean-parenthesization5610/1#) |
+|21  | [Scramble String](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/ScrambleString.cpp) | [Leetcode](https://leetcode.com/problems/scramble-string/) |
