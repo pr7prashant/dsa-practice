@@ -278,3 +278,4 @@
 |20  | [Boolean Parenthesization](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/BooleanParenthesization.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/boolean-parenthesization5610/1#) |
 |21  | [Scramble String](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/ScrambleString.cpp) | [Leetcode](https://leetcode.com/problems/scramble-string/) |
 |22  | [Egg Dropping Problem](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/EggDropping.cpp) | [Leetcode](https://leetcode.com/problems/super-egg-drop/) |
+|23  | [nCr (Pascal's Triangle)](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/nCr.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/ncr1019/1#) |
