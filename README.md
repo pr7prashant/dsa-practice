@@ -280,3 +280,4 @@
 |22  | [Egg Dropping Problem](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/EggDropping.cpp) | [Leetcode](https://leetcode.com/problems/super-egg-drop/) |
 |23  | [nCr (Pascal's Triangle)](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/nCr.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/ncr1019/1#) |
 |24  | [Nth Catalan Number](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/CatalanNumber.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/nth-catalan-number0817/1#) |
+|25  | [Edit Distance](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/EditDistance.cpp) | [Leetcode](https://leetcode.com/problems/edit-distance/) |
