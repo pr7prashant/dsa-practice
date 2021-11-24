@@ -283,3 +283,4 @@
 |25  | [Edit Distance](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/EditDistance.cpp) | [Leetcode](https://leetcode.com/problems/edit-distance/) |
 |26  | [Friends Pairing Problem](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/FriendsPairing.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/friends-pairing-problem5425/1#) |
 |27  | [Paint Fence](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/PaintFence.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/painting-the-fence3727/1#) |
+|28  | [Maximize Cut Segments](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/MaxCutSegments.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/cutted-segments1642/1#) |
