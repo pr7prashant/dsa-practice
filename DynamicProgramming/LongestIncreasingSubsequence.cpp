@@ -51,14 +51,14 @@ public:
         
         // Memoization
         // vector<vector<int>> dp(len + 1, vector<int>(len + 1, -1));
-        // nums.insert(nums.begin(), INT_MIN); // This line is important otherwise the first element will not be considered in the answer.
+        // nums.insert(nums.begin(), INT_MIN);
         // return helper(nums, 0, 0, dp);
         
         // Tabulation
-        vector<int> dp(len, 1);
-        dp[0] = 1;
+        vector<int> dp(len);
         
-        for (int i = 1; i < len; i++) {
+        int ans = 0;
+        for (int i = 0; i < len; i++) {
             int mx = 0;
             for (int j = i - 1; j >= 0; j--) {
                 if (nums[i] > nums[j]) {
@@ -66,9 +66,10 @@ public:
                 }
             }
             dp[i] = mx + 1;
+            ans = max(ans, dp[i]);
         }
         
-        return *max_element(dp.begin(), dp.end());
+        return ans;
     }
 };
 
