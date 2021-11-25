@@ -285,3 +285,4 @@
 |27  | [Paint Fence](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/PaintFence.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/painting-the-fence3727/1#) |
 |28  | [Maximize Cut Segments](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/MaxCutSegments.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/cutted-segments1642/1#) |
 |29  | [Longest Increasing Subsequence](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/LongestIncreasingSubsequence.cpp) | [Leetcode](https://leetcode.com/problems/longest-increasing-subsequence/) |
+|30  | [Longest Common Subsequence of 3 Strings](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/LCSof3Strings.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/lcs-of-three-strings0028/1#) |
