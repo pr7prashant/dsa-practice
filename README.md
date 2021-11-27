@@ -294,3 +294,4 @@
 |36  | [Jump Game](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/JumpGame.cpp) | [Leetcode](https://leetcode.com/problems/jump-game/) |
 |37  | [Jump Game 2](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/JumpGame2.cpp) | [Leetcode](https://leetcode.com/problems/jump-game-ii/) |
 |38  | [Minimum cost to fill given weight in a bag](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/MinCostToFillWeight.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-cost-to-fill-given-weight-in-a-bag1956/1#) |
+|39  | [Count Balanced Binary Trees of Height h](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/BBTCounter.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/bbt-counter4914/1#) |

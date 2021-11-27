@@ -67,4 +67,12 @@ Since the difference between the heights of left and right subtree is not more t
 (h-2), (h-1)
 (h-1), (h-1)
 
+count(h) = count(h-1) * count(h-2) + 
+           count(h-2) * count(h-1) + 
+           count(h-1) * count(h-1)
+           
+        = 2 * count(h-1) * count(h-2) + count(h-1) * count(h-1)
+
+        = count(h-1) * (2*count(h - 2) + count(h - 1))
+
 */
