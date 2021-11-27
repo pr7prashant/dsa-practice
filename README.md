@@ -291,3 +291,4 @@
 |33  | [Maximal Square](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/MaximalSquare.cpp) | [Leetcode](https://leetcode.com/problems/maximal-square/) |
 |34  | [Pairs with Specific Difference](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/SpecificDifferencePairs.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/pairs-with-specific-difference1533/1#) |
 |35  | [Minimum Path Sum](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/MinimumPathSum.cpp) | [Leetcode](https://leetcode.com/problems/minimum-path-sum/) |
+|36  | [Jump Game](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/JumpGame.cpp) | [Leetcode](https://leetcode.com/problems/jump-game/) |
