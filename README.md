@@ -145,6 +145,7 @@
 |20  | [Combination Sum 2](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/CombinationSum2.cpp) | [Leetcode](https://leetcode.com/problems/combination-sum-ii/) |
 |21  | [Largest Number in K Swaps](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/LargestNumberInKSwaps.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1#) |
 |22  | [Partition a Set into K Equal Sum Subsets](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/PartitionToKEqualSumSubsets.cpp) | [Leetcode](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) |
+|23  | [Predict the Winner](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/PredictTheWinner.cpp) | [Leetcode](https://leetcode.com/problems/predict-the-winner/) |
 
 ### 10. Binary Tree
 | No. | Problem | Practice Link |
