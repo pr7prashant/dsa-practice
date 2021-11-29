@@ -301,3 +301,4 @@
 |41  | [Count Palindromic Subsequences](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/CountPalindromicSubsequences.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1#) |
 |42  | [Longest Palindromic Substring](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/LongestPalindromicSubstring.cpp) | [Leetcode](https://leetcode.com/problems/longest-palindromic-substring/) |
 |43  | [Maximum profit by buying and selling a stock atmost twice](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/BuyAndSellStock3.cpp) | [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |
+|44  | [Word Wrap](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/WordWrap.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/word-wrap1646/1#) |
