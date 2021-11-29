@@ -302,3 +302,4 @@
 |42  | [Longest Palindromic Substring](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/LongestPalindromicSubstring.cpp) | [Leetcode](https://leetcode.com/problems/longest-palindromic-substring/) |
 |43  | [Maximum profit by buying and selling a stock atmost twice](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/BuyAndSellStock3.cpp) | [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |
 |44  | [Word Wrap](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/WordWrap.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/word-wrap1646/1#) |
+|45  | [Mobile Numeric Keypad](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/MobileNumericKeypad.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1#) |
