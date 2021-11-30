@@ -10,15 +10,15 @@
 |3  | [Stack](#3-Stack) |
 |4  | [Queue](#4-Queue) |
 |5  | [Linked List](#5-Linked-List) |
-|6  | [Two Pointers](#7-Two-Pointers) |
-|7  | [Greedy](#8-Greedy) |
-|8  | [Recursion and Backtracking](#9-Recursion-and-Backtracking) |
-|9  | [Binary Tree](#10-Binary-Tree) |
-|10  | [Binary Search Tree](#11-Binary-Search-Tree) |
-|11  | [Heap](#12-Heap) |
-|12  | [Graph](#13-Graph) |
-|13  | [Trie](#14-Trie) |
-|14  | [Dynamic Programming](#15-Dynamic-Programming) |
+|6  | [Two Pointers](#6-Two-Pointers) |
+|7  | [Greedy](#7-Greedy) |
+|8  | [Recursion and Backtracking](#8-Recursion-and-Backtracking) |
+|9  | [Binary Tree](#9-Binary-Tree) |
+|10  | [Binary Search Tree](#10-Binary-Search-Tree) |
+|11  | [Heap](#11-Heap) |
+|12  | [Graph](#12-Graph) |
+|13  | [Trie](#13-Trie) |
+|14  | [Dynamic Programming](#14-Dynamic-Programming) |
 
 ### 1. Array
 | No. | Problem | Practice Link |
