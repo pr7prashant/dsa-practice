@@ -304,3 +304,4 @@
 |44  | [Word Wrap](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/WordWrap.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/word-wrap1646/1#) |
 |45  | [Mobile Numeric Keypad](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/MobileNumericKeypad.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1#) |
 |46  | [Interleaving String](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/InterleavingString.cpp) | [Leetcode](https://leetcode.com/problems/interleaving-string/) |
+|47  | [Maximum Profit in Job Scheduling](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/JobSchedulingMaxProfit.cpp) | [Leetcode](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) |
