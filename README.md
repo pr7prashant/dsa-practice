@@ -33,6 +33,7 @@
 |8  | [Find First and Last Position of Element in Sorted Array](https://github.com/pr7prashant/dsa-practice/blob/master/Array/FirstAndLastPosInSortedArray.cpp) | [Leetcode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
 |9  | [Check if Array Is Sorted and Rotated](https://github.com/pr7prashant/dsa-practice/blob/master/Array/CheckSortedRotatedArray.cpp) | [Leetcode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) |
 |10  | [Find Minimum in Rotated Sorted Array](https://github.com/pr7prashant/dsa-practice/blob/master/Array/MinInRotatedSortedArray.cpp) | [Leetcode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
+|11  | [Search in Rotated Sorted Array](https://github.com/pr7prashant/dsa-practice/blob/master/Array/SearchInRotatedSortedArray.cpp) | [Leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
 
 ### 2. String
 | No. | Problem | Practice Link |
