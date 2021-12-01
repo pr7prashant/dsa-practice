@@ -31,6 +31,7 @@
 |6  | [Gas Station](https://github.com/pr7prashant/dsa-practice/blob/master/Array/GasStation.cpp) | [Leetcode](https://leetcode.com/problems/gas-station/) |
 |7  | [Merge Intervals](https://github.com/pr7prashant/dsa-practice/blob/master/Array/MergeIntervals.cpp) | [Leetcode](https://leetcode.com/problems/merge-intervals/) |
 |8  | [Find First and Last Position of Element in Sorted Array](https://github.com/pr7prashant/dsa-practice/blob/master/Array/FirstAndLastPosInSortedArray.cpp) | [Leetcode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
+|9  | [Check if Array Is Sorted and Rotated](https://github.com/pr7prashant/dsa-practice/blob/master/Array/CheckSortedRotatedArray.cpp) | [Leetcode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) |
 
 ### 2. String
 | No. | Problem | Practice Link |
