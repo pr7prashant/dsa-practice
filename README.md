@@ -36,6 +36,7 @@
 |11  | [Search in Rotated Sorted Array](https://github.com/pr7prashant/dsa-practice/blob/master/Array/SearchInRotatedSortedArray.cpp) | [Leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
 |12  | [Search Insert Position](https://github.com/pr7prashant/dsa-practice/blob/master/Array/SearchInsertPosition.cpp) | [Leetcode](https://leetcode.com/problems/search-insert-position/) |
 |13  | [Next Alphabetical Element](https://github.com/pr7prashant/dsa-practice/blob/master/Array/NextAlphabeticalElement.cpp) | [Leetcode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) |
+|14  | [Find Peak Element](https://github.com/pr7prashant/dsa-practice/blob/master/Array/PeakElement.cpp) | [Leetcode](https://leetcode.com/problems/find-peak-element/) |
 
 ### 2. String
 | No. | Problem | Practice Link |
