@@ -10,15 +10,14 @@
 |3  | [Stack](#3-Stack) |
 |4  | [Queue](#4-Queue) |
 |5  | [Linked List](#5-Linked-List) |
-|6  | [Two Pointers](#6-Two-Pointers) |
-|7  | [Greedy](#7-Greedy) |
-|8  | [Recursion and Backtracking](#8-Recursion-and-Backtracking) |
-|9  | [Binary Tree](#9-Binary-Tree) |
-|10  | [Binary Search Tree](#10-Binary-Search-Tree) |
-|11  | [Heap](#11-Heap) |
-|12  | [Graph](#12-Graph) |
-|13  | [Trie](#13-Trie) |
-|14  | [Dynamic Programming](#14-Dynamic-Programming) |
+|6  | [Greedy](#6-Greedy) |
+|7  | [Recursion and Backtracking](#7-Recursion-and-Backtracking) |
+|8  | [Binary Tree](#8-Binary-Tree) |
+|9  | [Binary Search Tree](#9-Binary-Search-Tree) |
+|10  | [Heap](#10-Heap) |
+|11  | [Graph](#11-Graph) |
+|12  | [Trie](#12-Trie) |
+|13  | [Dynamic Programming](#13-Dynamic-Programming) |
 
 ### 1. Array
 | No. | Problem | Practice Link |
@@ -39,6 +38,7 @@
 |14  | [Find Peak Element](https://github.com/pr7prashant/dsa-practice/blob/master/Array/PeakElement.cpp) | [Leetcode](https://leetcode.com/problems/find-peak-element/) |
 |15  | [Search in a 2D Sorted Matrix](https://github.com/pr7prashant/dsa-practice/blob/master/Array/SearchInMatix.cpp) | [Leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
 |16  | [Allocate minimum number of pages](https://github.com/pr7prashant/dsa-practice/blob/master/Array/AllocateMinPages.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1#) |
+|17  | [The Celebrity Problem](https://github.com/pr7prashant/dsa-practice/blob/master/Array/CelebrityProblem.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1) |
 
 ### 2. String
 | No. | Problem | Practice Link |
@@ -100,12 +100,7 @@
 |18  | [Delete nodes having greater value on right](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/DeleteNodeWithGreaterValOnRight.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1#) |
 |19  | [Segregate even and odd nodes in a Link List](https://github.com/pr7prashant/dsa-practice/blob/master/LinkedList/SegregateEvenOdd.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list5035/1#) |
 
-### 6. Two Pointers
-| No. | Problem | Practice Link |
-| --- | --------- | --------- |
-|1  | [The Celebrity Problem](https://github.com/pr7prashant/dsa-practice/blob/master/TwoPointers/CelebrityProblem.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1) |
-
-### 7. Greedy
+### 6. Greedy
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [N Meetings in One Room](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/MeetingRoom.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#) |
@@ -124,7 +119,7 @@
 |14  | [Reorganize String](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/ReorganizeString.cpp) | [Leetcode](https://leetcode.com/problems/reorganize-string/) |
 |15  | [Wiggle Subsequence](https://github.com/pr7prashant/dsa-practice/blob/master/Greedy/WiggleSubsequence.cpp) | [Leetcode](https://leetcode.com/problems/wiggle-subsequence/) |
 
-### 8. Recursion and Backtracking
+### 7. Recursion and Backtracking
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Sort a stack recursively](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/SortStack.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/sort-a-stack/1#) |
@@ -151,7 +146,7 @@
 |22  | [Partition a Set into K Equal Sum Subsets](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/PartitionToKEqualSumSubsets.cpp) | [Leetcode](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) |
 |23  | [Predict the Winner](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/PredictTheWinner.cpp) | [Leetcode](https://leetcode.com/problems/predict-the-winner/) |
 
-### 9. Binary Tree
+### 8. Binary Tree
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Binary Tree Level Order Traversal](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/LevelOrderTraversal.cpp) | [Leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
@@ -176,7 +171,7 @@
 |20  | [Populate Inorder Successor for all nodes](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/PopulateInorderSuccessor.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1#) |
 |21  | [Check Completeness of a Binary Tree](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/CheckCompleteness.cpp) | [Leetcode](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) |
 
-### 10. Binary Search Tree
+### 9. Binary Search Tree
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Delete Node in a BST](https://github.com/pr7prashant/dsa-practice/blob/master/BinarySearchTree/DeleteNodeInBST.cpp) | [Leetcode](https://leetcode.com/problems/delete-node-in-a-bst/) |
@@ -190,7 +185,7 @@
 |9  | [Check whether BST contains Dead End](https://github.com/pr7prashant/dsa-practice/blob/master/BinarySearchTree/CheckDeadEnd.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1#) |
 |10  | [Largest BST in a Binary Tree](https://github.com/pr7prashant/dsa-practice/blob/master/BinarySearchTree/LargestBSTInBinaryTree.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/largest-bst/1#) |
 
-### 11. Heap
+### 10. Heap
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Heap Sort](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/HeapSort.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/heap-sort/1#) |
@@ -211,7 +206,7 @@
 |16  | [Minimum Sum of Squares of Frequency after Removing K Characters](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/MinSumAfterRemovingKChars.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/game-with-string4100/1#) |
 |17  | [Huffman Encoding](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/HuffmanEncoding.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/huffman-encoding3345/1#) |
 
-### 12. Graph
+### 11. Graph
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Create and Print a Graph](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/CreateGraph.cpp) | [-](-) |
@@ -250,7 +245,7 @@
 |34  | [Number of Triangles in Directed and Undirected Graphs](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/CountTriangles.cpp) | [-](-) |
 |35  | [Two Clique Problem](https://github.com/pr7prashant/dsa-practice/blob/master/Graph/TwoClique.cpp) | [-](-) |
 
-### 13. Trie
+### 12. Trie
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Create Trie](https://github.com/pr7prashant/dsa-practice/blob/master/Trie/CreateTrie.cpp) | [-](-) |
@@ -259,7 +254,7 @@
 |4  | [Phone Directory](https://github.com/pr7prashant/dsa-practice/blob/master/Trie/PhoneDirectory.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/phone-directory4628/1#) |
 |5  | [Unique rows in boolean matrix](https://github.com/pr7prashant/dsa-practice/blob/master/Trie/UniqueRowsInMatrix.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1#) |
 
-### 14. Dynamic Programming
+### 13. Dynamic Programming
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [0-1 Knapsack Problem](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/01Knapsack.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1#) |
