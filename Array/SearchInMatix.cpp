@@ -25,24 +25,40 @@ The first integer of each row is greater than the last integer of the previous r
 
 class Solution {
 public:
-    int findPeakElement(vector<int>& nums) {
-        int start = 1;
-        int end = nums.size() - 2;
-        
-        if (nums.size() == 1) return 0;
+    bool binarySearch(vector<int>& arr, int target) {
+        int start = 0;
+        int end = arr.size() - 1;
         
         while (start <= end) {
             int mid = (start + end) / 2;
             
-            if (nums[mid] > nums[mid-1] && nums[mid] > nums[mid+1]) return mid;
+            if (arr[mid] == target) return true;
             
-            if (nums[mid] < nums[mid-1]) end = mid - 1;
+            if (target < arr[mid]) end = mid - 1;
             else start = mid + 1;
         }
         
-        if (nums[0] > nums[1]) return 0;
+        return false;
+    }
+    
+    bool searchMatrix(vector<vector<int>>& matrix, int target) {
+        int r = matrix.size();
+        int c = matrix[0].size();
+        int start = 0;
+        int end = r - 1;
         
-        return nums.size() - 1;
+        while (start <= end) {
+            int mid = (start + end) / 2;
+            
+            if (target >= matrix[mid][0] && target <= matrix[mid][c-1]) {
+                return binarySearch(matrix[mid], target);
+            }
+            
+            if (target < matrix[mid][0]) end = mid - 1;
+            else start = mid + 1;
+        }
+        
+        return false;
     }
 };
 
