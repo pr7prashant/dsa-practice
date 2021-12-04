@@ -38,6 +38,7 @@
 |13  | [Next Alphabetical Element](https://github.com/pr7prashant/dsa-practice/blob/master/Array/NextAlphabeticalElement.cpp) | [Leetcode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) |
 |14  | [Find Peak Element](https://github.com/pr7prashant/dsa-practice/blob/master/Array/PeakElement.cpp) | [Leetcode](https://leetcode.com/problems/find-peak-element/) |
 |15  | [Search in a 2D Sorted Matrix](https://github.com/pr7prashant/dsa-practice/blob/master/Array/SearchInMatix.cpp) | [Leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
+|16  | [Allocate minimum number of pages](https://github.com/pr7prashant/dsa-practice/blob/master/Array/AllocateMinPages.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1#) |
 
 ### 2. String
 | No. | Problem | Practice Link |
