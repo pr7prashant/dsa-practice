@@ -41,6 +41,7 @@
 |17  | [The Celebrity Problem](https://github.com/pr7prashant/dsa-practice/blob/master/Array/CelebrityProblem.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1) |
 |18  | [Minimize maximum difference between the heights](https://github.com/pr7prashant/dsa-practice/blob/master/Array/MinimizeHeights.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1#) |
 |19  | [Find the Duplicate Number](https://github.com/pr7prashant/dsa-practice/blob/master/Array/DuplicateNumber.cpp) | [Leetcode](https://leetcode.com/problems/find-the-duplicate-number/) |
+|20  | [Merge 2 sorted arrays without extra space](https://github.com/pr7prashant/dsa-practice/blob/master/Array/Merge2SortedArrays.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1#) |
 
 ### 2. String
 | No. | Problem | Practice Link |
