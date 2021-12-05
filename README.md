@@ -40,6 +40,7 @@
 |16  | [Allocate minimum number of pages](https://github.com/pr7prashant/dsa-practice/blob/master/Array/AllocateMinPages.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1#) |
 |17  | [The Celebrity Problem](https://github.com/pr7prashant/dsa-practice/blob/master/Array/CelebrityProblem.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1) |
 |18  | [Minimize maximum difference between the heights](https://github.com/pr7prashant/dsa-practice/blob/master/Array/MinimizeHeights.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1#) |
+|19  | [Find the Duplicate Number](https://github.com/pr7prashant/dsa-practice/blob/master/Array/DuplicateNumber.cpp) | [Leetcode](https://leetcode.com/problems/find-the-duplicate-number/) |
 
 ### 2. String
 | No. | Problem | Practice Link |
