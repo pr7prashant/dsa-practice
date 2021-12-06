@@ -43,6 +43,7 @@
 |19  | [Find the Duplicate Number](https://github.com/pr7prashant/dsa-practice/blob/master/Array/DuplicateNumber.cpp) | [Leetcode](https://leetcode.com/problems/find-the-duplicate-number/) |
 |20  | [Merge 2 sorted arrays without extra space](https://github.com/pr7prashant/dsa-practice/blob/master/Array/Merge2SortedArrays.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1#) |
 |21  | [Maximum Subarray (Kadane's Algorithm)](https://github.com/pr7prashant/dsa-practice/blob/master/Array/MaxSubArray.cpp) | [Leetcode](https://leetcode.com/problems/maximum-subarray/) |
+|22  | [Next Permutation](https://github.com/pr7prashant/dsa-practice/blob/master/Array/NextPermutation.cpp) | [Leetcode](https://leetcode.com/problems/next-permutation/) |
 
 ### 2. String
 | No. | Problem | Practice Link |
