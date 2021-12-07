@@ -45,6 +45,7 @@
 |21  | [Maximum Subarray (Kadane's Algorithm)](https://github.com/pr7prashant/dsa-practice/blob/master/Array/MaxSubArray.cpp) | [Leetcode](https://leetcode.com/problems/maximum-subarray/) |
 |22  | [Next Permutation](https://github.com/pr7prashant/dsa-practice/blob/master/Array/NextPermutation.cpp) | [Leetcode](https://leetcode.com/problems/next-permutation/) |
 |23  | [Count Inversions](https://github.com/pr7prashant/dsa-practice/blob/master/Array/CountInversions.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1#) |
+|24  | [Best Time to Buy and Sell Stock](https://github.com/pr7prashant/dsa-practice/blob/master/Array/BuyAndSellStock.cpp) | [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 
 ### 2. String
 | No. | Problem | Practice Link |
