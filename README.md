@@ -46,6 +46,8 @@
 |22  | [Next Permutation](https://github.com/pr7prashant/dsa-practice/blob/master/Array/NextPermutation.cpp) | [Leetcode](https://leetcode.com/problems/next-permutation/) |
 |23  | [Count Inversions](https://github.com/pr7prashant/dsa-practice/blob/master/Array/CountInversions.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1#) |
 |24  | [Best Time to Buy and Sell Stock](https://github.com/pr7prashant/dsa-practice/blob/master/Array/BuyAndSellStock.cpp) | [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+|25  | [Two Sum](https://github.com/pr7prashant/dsa-practice/blob/master/Array/TwoSum.cpp) | [Leetcode](https://leetcode.com/problems/two-sum/) |
+|26  | [Three Sum](https://github.com/pr7prashant/dsa-practice/blob/master/Array/ThreeSum.cpp) | [Leetcode](https://leetcode.com/problems/3sum/) |
 
 ### 2. String
 | No. | Problem | Practice Link |
