@@ -48,6 +48,7 @@
 |24  | [Best Time to Buy and Sell Stock](https://github.com/pr7prashant/dsa-practice/blob/master/Array/BuyAndSellStock.cpp) | [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 |25  | [Two Sum](https://github.com/pr7prashant/dsa-practice/blob/master/Array/TwoSum.cpp) | [Leetcode](https://leetcode.com/problems/two-sum/) |
 |26  | [Three Sum](https://github.com/pr7prashant/dsa-practice/blob/master/Array/ThreeSum.cpp) | [Leetcode](https://leetcode.com/problems/3sum/) |
+|27  | [Common Elements](https://github.com/pr7prashant/dsa-practice/blob/master/Array/CommonElements.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/common-elements1132/1#) |
 
 ### 2. String
 | No. | Problem | Practice Link |
