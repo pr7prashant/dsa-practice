@@ -26,7 +26,7 @@
 |2  | [First negative integer in every window of size k](https://github.com/pr7prashant/dsa-practice/blob/master/Array/FirstNegativeInWindow.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1#) |
 |3  | [Maximum of all sub arrays of size k](https://github.com/pr7prashant/dsa-practice/blob/master/Array/SlidingWindowMaximum.cpp) | [InterviewBit](https://www.interviewbit.com/problems/sliding-window-maximum/#) |
 |4  | [Subarray Sum Equals K](https://github.com/pr7prashant/dsa-practice/blob/master/Array/SubArraysWithSumK.cpp) | [Leetcode](https://leetcode.com/problems/subarray-sum-equals-k/) |
-|5  | [Trapping Rain Water](https://github.com/pr7prashant/dsa-practice/blob/master/Array/TrappingRainWater.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1#) |
+|5  | [Trapping Rain Water](https://github.com/pr7prashant/dsa-practice/blob/master/Array/TrappingRainWater.cpp) | [Leetcode](https://leetcode.com/problems/trapping-rain-water/) |
 |6  | [Gas Station](https://github.com/pr7prashant/dsa-practice/blob/master/Array/GasStation.cpp) | [Leetcode](https://leetcode.com/problems/gas-station/) |
 |7  | [Merge Intervals](https://github.com/pr7prashant/dsa-practice/blob/master/Array/MergeIntervals.cpp) | [Leetcode](https://leetcode.com/problems/merge-intervals/) |
 |8  | [Find First and Last Position of Element in Sorted Array](https://github.com/pr7prashant/dsa-practice/blob/master/Array/FirstAndLastPosInSortedArray.cpp) | [Leetcode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
