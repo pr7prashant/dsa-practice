@@ -51,6 +51,7 @@
 |27  | [Common Elements](https://github.com/pr7prashant/dsa-practice/blob/master/Array/CommonElements.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/common-elements1132/1#) |
 |28  | [Subarray with 0 Sum](https://github.com/pr7prashant/dsa-practice/blob/master/Array/ZeroSumSubarray.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1#) |
 |29  | [Chocolate Distribution Problem](https://github.com/pr7prashant/dsa-practice/blob/master/Array/ChocolateDistribution.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1#) |
+|30  | [Sort Colors](https://github.com/pr7prashant/dsa-practice/blob/master/Array/SortColors.cpp) | [Leetcode](https://leetcode.com/problems/sort-colors/) |
 
 ### 2. String
 | No. | Problem | Practice Link |
