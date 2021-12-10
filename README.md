@@ -52,6 +52,7 @@
 |28  | [Subarray with 0 Sum](https://github.com/pr7prashant/dsa-practice/blob/master/Array/ZeroSumSubarray.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1#) |
 |29  | [Chocolate Distribution Problem](https://github.com/pr7prashant/dsa-practice/blob/master/Array/ChocolateDistribution.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1#) |
 |30  | [Sort Colors](https://github.com/pr7prashant/dsa-practice/blob/master/Array/SortColors.cpp) | [Leetcode](https://leetcode.com/problems/sort-colors/) |
+|31  | [Minimum swaps and K together](https://github.com/pr7prashant/dsa-practice/blob/master/Array/MinSwapsForKTogether.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1#) |
 
 ### 2. String
 | No. | Problem | Practice Link |
