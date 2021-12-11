@@ -68,7 +68,6 @@ int Solution::findMedian(vector<vector<int> > &A) {
     return start;
 }
 
-
 /*
 
 **************** Logic ****************
