@@ -55,6 +55,7 @@
 |31  | [Minimum swaps and K together](https://github.com/pr7prashant/dsa-practice/blob/master/Array/MinSwapsForKTogether.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1#) |
 |32  | [Median of Two Sorted Arrays](https://github.com/pr7prashant/dsa-practice/blob/master/Array/MedianOf2SortedArrays.cpp) | [Leetcode](https://leetcode.com/problems/median-of-two-sorted-arrays/) |
 |33  | [Median in a Row Wise Sorted Matrix](https://github.com/pr7prashant/dsa-practice/blob/master/Array/MedianInRowSortedMatrix.cpp) | [InterviewBit](https://www.interviewbit.com/problems/matrix-median/) |
+|34  | [Rotate Image](https://github.com/pr7prashant/dsa-practice/blob/master/Array/RotateImage.cpp) | [Leetcode](https://leetcode.com/problems/rotate-image/) |
 
 ### 2. String
 | No. | Problem | Practice Link |
