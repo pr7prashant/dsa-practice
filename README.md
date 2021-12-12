@@ -222,6 +222,7 @@
 |15  | [Minimum Cost to Connect Ropes](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/MinCostToConnectRopes.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1#) |
 |16  | [Minimum Sum of Squares of Frequency after Removing K Characters](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/MinSumAfterRemovingKChars.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/game-with-string4100/1#) |
 |17  | [Huffman Encoding](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/HuffmanEncoding.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/huffman-encoding3345/1#) |
+|18  | [Kth Smallest Element in a Sorted Matrix](https://github.com/pr7prashant/dsa-practice/blob/master/Heap/KthSmallestInSortedMatrix.cpp) | [Leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |
 
 ### 11. Graph
 | No. | Problem | Practice Link |
