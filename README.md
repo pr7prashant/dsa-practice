@@ -163,6 +163,7 @@
 |21  | [Largest Number in K Swaps](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/LargestNumberInKSwaps.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1#) |
 |22  | [Partition a Set into K Equal Sum Subsets](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/PartitionToKEqualSumSubsets.cpp) | [Leetcode](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) |
 |23  | [Predict the Winner](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/PredictTheWinner.cpp) | [Leetcode](https://leetcode.com/problems/predict-the-winner/) |
+|24  | [Permutations of a string](https://github.com/pr7prashant/dsa-practice/blob/master/RecursionAndBacktracking/PermutationsOfString.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1#) |
 
 ### 8. Binary Tree
 | No. | Problem | Practice Link |
