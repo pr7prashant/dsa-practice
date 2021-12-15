@@ -69,6 +69,7 @@
 |6  | [Group Anagrams](https://github.com/pr7prashant/dsa-practice/blob/master/String/GroupAnagrams.cpp) | [Leetcode](https://leetcode.com/problems/group-anagrams/) |
 |7  | [Rabin Karp Algorithm](https://github.com/pr7prashant/dsa-practice/blob/master/String/RabinKarp.cpp) | [-](-) |
 |8  | [Knuth Morris Pratt Algorithm](https://github.com/pr7prashant/dsa-practice/blob/master/String/KnuthMorrisPratt.cpp) | [-](-) |
+|9  | [Longest Happy Prefix](https://github.com/pr7prashant/dsa-practice/blob/master/String/LongestHappyPrefix.cpp) | [Leetcode](https://leetcode.com/problems/longest-happy-prefix/) |
 
 ### 3. Stack
 | No. | Problem | Practice Link |
