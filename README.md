@@ -68,6 +68,7 @@
 |5  | [Choose and Swap](https://github.com/pr7prashant/dsa-practice/blob/master/String/ChooseAndSwap.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/choose-and-swap0531/1#) |
 |6  | [Group Anagrams](https://github.com/pr7prashant/dsa-practice/blob/master/String/GroupAnagrams.cpp) | [Leetcode](https://leetcode.com/problems/group-anagrams/) |
 |7  | [Rabin Karp Algorithm](https://github.com/pr7prashant/dsa-practice/blob/master/String/RabinKarp.cpp) | [-](-) |
+|8  | [Knuth Morris Pratt Algorithm](https://github.com/pr7prashant/dsa-practice/blob/master/String/KnuthMorrisPratt.cpp) | [-](-) |
 
 ### 3. Stack
 | No. | Problem | Practice Link |
