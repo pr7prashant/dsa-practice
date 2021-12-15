@@ -70,6 +70,7 @@
 |7  | [Rabin Karp Algorithm](https://github.com/pr7prashant/dsa-practice/blob/master/String/RabinKarp.cpp) | [-](-) |
 |8  | [Knuth Morris Pratt Algorithm](https://github.com/pr7prashant/dsa-practice/blob/master/String/KnuthMorrisPratt.cpp) | [-](-) |
 |9  | [Longest Happy Prefix](https://github.com/pr7prashant/dsa-practice/blob/master/String/LongestHappyPrefix.cpp) | [Leetcode](https://leetcode.com/problems/longest-happy-prefix/) |
+|10  | [Count Reversals](https://github.com/pr7prashant/dsa-practice/blob/master/String/CountReversals.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/count-the-reversals0401/1#) |
 
 ### 3. Stack
 | No. | Problem | Practice Link |
