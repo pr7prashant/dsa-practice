@@ -72,6 +72,7 @@
 |9  | [Longest Happy Prefix](https://github.com/pr7prashant/dsa-practice/blob/master/String/LongestHappyPrefix.cpp) | [Leetcode](https://leetcode.com/problems/longest-happy-prefix/) |
 |10  | [Count Reversals](https://github.com/pr7prashant/dsa-practice/blob/master/String/CountReversals.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/count-the-reversals0401/1#) |
 |11  | [Roman to Integer](https://github.com/pr7prashant/dsa-practice/blob/master/String/RomanToInteger.cpp) | [Leetcode](https://leetcode.com/problems/roman-to-integer/) |
+|12  | [Longest Common Prefix](https://github.com/pr7prashant/dsa-practice/blob/master/String/LongestCommonPrefix.cpp) | [Leetcode](https://leetcode.com/problems/longest-common-prefix/) |
 
 ### 3. Stack
 | No. | Problem | Practice Link |
