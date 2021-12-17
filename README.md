@@ -74,6 +74,7 @@
 |11  | [Roman to Integer](https://github.com/pr7prashant/dsa-practice/blob/master/String/RomanToInteger.cpp) | [Leetcode](https://leetcode.com/problems/roman-to-integer/) |
 |12  | [Longest Common Prefix](https://github.com/pr7prashant/dsa-practice/blob/master/String/LongestCommonPrefix.cpp) | [Leetcode](https://leetcode.com/problems/longest-common-prefix/) |
 |13  | [Minimum Number of Flips to Make the Binary String Alternating](https://github.com/pr7prashant/dsa-practice/blob/master/String/MinimumFlips.cpp) | [Leetcode](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) |
+|14  | [Minimum Number of Swaps to Make the String Balanced](https://github.com/pr7prashant/dsa-practice/blob/master/String/MinimumSwapsToBalanceBrackets.cpp) | [Leetcode](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) |
 
 ### 3. Stack
 | No. | Problem | Practice Link |
