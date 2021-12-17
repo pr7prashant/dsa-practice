@@ -73,6 +73,7 @@
 |10  | [Count Reversals](https://github.com/pr7prashant/dsa-practice/blob/master/String/CountReversals.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/count-the-reversals0401/1#) |
 |11  | [Roman to Integer](https://github.com/pr7prashant/dsa-practice/blob/master/String/RomanToInteger.cpp) | [Leetcode](https://leetcode.com/problems/roman-to-integer/) |
 |12  | [Longest Common Prefix](https://github.com/pr7prashant/dsa-practice/blob/master/String/LongestCommonPrefix.cpp) | [Leetcode](https://leetcode.com/problems/longest-common-prefix/) |
+|13  | [Minimum Number of Flips to Make the Binary String Alternating](https://github.com/pr7prashant/dsa-practice/blob/master/String/MinimumFlips.cpp) | [Leetcode](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) |
 
 ### 3. Stack
 | No. | Problem | Practice Link |
