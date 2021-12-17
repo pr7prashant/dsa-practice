@@ -97,4 +97,5 @@ public:
         // cnt[1][1] = number of '1' in odd  positions
 
         ans = min(flips to make pattern 1, flips to make pattern 2)
+        
 */
