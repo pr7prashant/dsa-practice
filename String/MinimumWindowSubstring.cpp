@@ -26,15 +26,13 @@ class Solution {
 public:
     string minWindow(string s, string t) {
       vector<int> mp(128, 0);
-      int i=0, j=0;
+      int i = 0, j = 0, count = t.length();
       string ans = "";
 
       if (t.length() > s.length()) return "";
         
       for (int i = 0; i < t.length(); i++) mp[t[i]]++;
       
-      int count = t.length();
-
       while(j < s.length()) {
         if (mp[s[j]]-- > 0) count--;
         
