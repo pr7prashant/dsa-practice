@@ -30,32 +30,19 @@ Return the final string after all such duplicate removals have been made. It can
 
 class Solution {
 public:
-    string minWindow(string s, string t) {
-      vector<int> mp(128, 0);
-      int i = 0, j = 0, count = t.length();
-      string ans = "";
-
-      if (t.length() > s.length()) return "";
+    string removeDuplicates(string s) {
+        string res = "";
+        res.push_back(s[0]);
         
-      for (int i = 0; i < t.length(); i++) mp[t[i]]++;
-      
-      while(j < s.length()) {
-        if (mp[s[j]]-- > 0) count--;
-        
-        while (i <= j && count == 0) {
-            if (ans == "" || j - i + 1 < ans.length()) {
-              ans = s.substr(i, j - i + 1);
+        for (int i = 1; i < s.length(); i++) {
+            if (res.length() > 0 && s[i] == res.back()) {
+                res.pop_back();
+            } else {
+                res.push_back(s[i]);
             }
-
-            if (mp[s[i]]++ == 0) count++;
-
-            i++;
-        }   
-  
-        j++;
-      }
-      
-      return ans;
+        }
+        
+        return res;
     }
 };
 
