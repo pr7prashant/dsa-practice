@@ -78,6 +78,7 @@
 |15  | [Smallest Subsequence of Distinct Characters](https://github.com/pr7prashant/dsa-practice/blob/master/String/SmallestDistinctSubsequence.cpp) | [Leetcode](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) |
 |16  | [Remove All Adjacent Duplicates In String](https://github.com/pr7prashant/dsa-practice/blob/master/String/RemoveAdjacentDuplicates.cpp) | [Leetcode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) |
 |17  | [Isomorphic Strings](https://github.com/pr7prashant/dsa-practice/blob/master/String/IsomorphicStrings.cpp) | [Leetcode](https://leetcode.com/problems/isomorphic-strings/) |
+|18  | [Maximum difference of zeros and ones in binary string](https://github.com/pr7prashant/dsa-practice/blob/master/String/MaxDifferenceInBinaryString.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/maximum-difference-of-zeros-and-ones-in-binary-string4111/1#) |
 
 ### 3. Stack
 | No. | Problem | Practice Link |
