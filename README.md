@@ -75,6 +75,7 @@
 |12  | [Longest Common Prefix](https://github.com/pr7prashant/dsa-practice/blob/master/String/LongestCommonPrefix.cpp) | [Leetcode](https://leetcode.com/problems/longest-common-prefix/) |
 |13  | [Minimum Number of Flips to Make the Binary String Alternating](https://github.com/pr7prashant/dsa-practice/blob/master/String/MinimumFlips.cpp) | [Leetcode](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) |
 |14  | [Minimum Number of Swaps to Make the String Balanced](https://github.com/pr7prashant/dsa-practice/blob/master/String/MinimumSwapsToBalanceBrackets.cpp) | [Leetcode](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) |
+|15  | [Smallest Subsequence of Distinct Characters](https://github.com/pr7prashant/dsa-practice/blob/master/String/SmallestDistinctSubsequence.cpp) | [Leetcode](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) |
 
 ### 3. Stack
 | No. | Problem | Practice Link |
