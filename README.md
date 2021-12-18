@@ -77,6 +77,7 @@
 |14  | [Minimum Number of Swaps to Make the String Balanced](https://github.com/pr7prashant/dsa-practice/blob/master/String/MinimumSwapsToBalanceBrackets.cpp) | [Leetcode](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) |
 |15  | [Smallest Subsequence of Distinct Characters](https://github.com/pr7prashant/dsa-practice/blob/master/String/SmallestDistinctSubsequence.cpp) | [Leetcode](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) |
 |16  | [Remove All Adjacent Duplicates In String](https://github.com/pr7prashant/dsa-practice/blob/master/String/RemoveAdjacentDuplicates.cpp) | [Leetcode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) |
+|17  | [Isomorphic Strings](https://github.com/pr7prashant/dsa-practice/blob/master/String/IsomorphicStrings.cpp) | [Leetcode](https://leetcode.com/problems/isomorphic-strings/) |
 
 ### 3. Stack
 | No. | Problem | Practice Link |
