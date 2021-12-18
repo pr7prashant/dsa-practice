@@ -2,25 +2,29 @@
 
 **************** Problem Description ****************
 
-Given two strings s and t of lengths m and n respectively,
-return the minimum window in s which will contain all the characters in t.
-If there is no such window in s that covers all characters in t, return the empty string "".
+You are given a string s consisting of lowercase English letters. A duplicate removal consists of choosing two adjacent and equal letters and removing them.
 
-Note that If there is such a window, it is guaranteed that there will always be only one unique minimum window in s.
+We repeatedly make duplicate removals on s until we no longer can.
+
+Return the final string after all such duplicate removals have been made. It can be proven that the answer is unique.
 
 
     Example 1:
 
-    Input: s = "ADOBECODEBANC", t = "ABC"
+    Input: s = "abbaca"
 
-    Output: "BANC"
+    Output: "ca"
+
+    Explanation: 
+    For example, in "abbaca" we could remove "bb" since the letters are adjacent and equal, and this is the only possible move.
+    The result of this move is that the string is "aaca", of which only "aa" is possible, so the final string is "ca".
 
 
     Example 2:
 
-    Input: s = "a", t = "a"
+    Input: s = "azxxzy"
 
-    Output: "a"
+    Output: "ay"
 
 */
 
@@ -58,8 +62,6 @@ public:
 /*
 
 **************** Logic ****************
-Variable size sliding window.
-Use map to store frequency of characters in pattern and a count variable to store character count in the window to avoid traversing the map.
-If the frequency of character in map becomes 0, then decrement count. When count is equal to 0, a candidate substring is found.
+If curr = result.back(), then pop the last character from result, else push back curr into result.
 
 */
