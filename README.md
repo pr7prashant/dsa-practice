@@ -58,6 +58,7 @@
 |34  | [Rotate Image](https://github.com/pr7prashant/dsa-practice/blob/master/Array/RotateImage.cpp) | [Leetcode](https://leetcode.com/problems/rotate-image/) |
 |35  | [Kth Smallest Element in a Sorted Matrix](https://github.com/pr7prashant/dsa-practice/blob/master/Array/KthSmallestInSortedMatrix.cpp) | [Leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |
 |36  | [Square Root of a Number](https://github.com/pr7prashant/dsa-practice/blob/master/Array/SquareRoot.cpp) | [Leetcode](https://leetcode.com/problems/sqrtx/) |
+|40  | [Repeat and Missing Number Array](https://github.com/pr7prashant/dsa-practice/blob/master/Array/MissingAndRepeatingElement.cpp) | [InterviewBit](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) |
 
 ### 2. String
 | No. | Problem | Practice Link |
