@@ -59,6 +59,7 @@
 |35  | [Kth Smallest Element in a Sorted Matrix](https://github.com/pr7prashant/dsa-practice/blob/master/Array/KthSmallestInSortedMatrix.cpp) | [Leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |
 |36  | [Square Root of a Number](https://github.com/pr7prashant/dsa-practice/blob/master/Array/SquareRoot.cpp) | [Leetcode](https://leetcode.com/problems/sqrtx/) |
 |37  | [Repeat and Missing Number Array](https://github.com/pr7prashant/dsa-practice/blob/master/Array/MissingAndRepeatingElement.cpp) | [InterviewBit](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) |
+|38  | [Majority Element](https://github.com/pr7prashant/dsa-practice/blob/master/Array/MajorityElement.cpp) | [Leetcode](https://leetcode.com/problems/majority-element/) |
 
 ### 2. String
 | No. | Problem | Practice Link |
