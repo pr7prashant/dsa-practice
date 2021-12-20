@@ -61,6 +61,7 @@
 |37  | [Repeat and Missing Number Array](https://github.com/pr7prashant/dsa-practice/blob/master/Array/MissingAndRepeatingElement.cpp) | [InterviewBit](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) |
 |38  | [Majority Element](https://github.com/pr7prashant/dsa-practice/blob/master/Array/MajorityElement.cpp) | [Leetcode](https://leetcode.com/problems/majority-element/) |
 |39  | [K-diff Pairs in an Array](https://github.com/pr7prashant/dsa-practice/blob/master/Array/KDiffPairs.cpp) | [Leetcode](https://leetcode.com/problems/k-diff-pairs-in-an-array/) |
+|40  | [Four Sum](https://github.com/pr7prashant/dsa-practice/blob/master/Array/FourSum.cpp) | [Leetcode](https://leetcode.com/problems/4sum/) |
 
 ### 2. String
 | No. | Problem | Practice Link |
