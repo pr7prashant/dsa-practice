@@ -63,6 +63,7 @@
 |39  | [K-diff Pairs in an Array](https://github.com/pr7prashant/dsa-practice/blob/master/Array/KDiffPairs.cpp) | [Leetcode](https://leetcode.com/problems/k-diff-pairs-in-an-array/) |
 |40  | [Four Sum](https://github.com/pr7prashant/dsa-practice/blob/master/Array/FourSum.cpp) | [Leetcode](https://leetcode.com/problems/4sum/) |
 |41  | [Minimum Swaps to Sort](https://github.com/pr7prashant/dsa-practice/blob/master/Array/MinSwapsToSort.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-swaps/1#) |
+|42  | [Magnetic Force Between Two Balls](https://github.com/pr7prashant/dsa-practice/blob/master/Array/MaxForceBetweenBalls.cpp) | [Leetcode](https://leetcode.com/problems/magnetic-force-between-two-balls/) |
 
 ### 2. String
 | No. | Problem | Practice Link |
