@@ -3,21 +3,21 @@
 ### Language : C++
 
 ### Table of Contents
-| No. | Topic |
-| --- | --------- |
-|1  | [Array](#1-Array) |
-|2  | [String](#2-String) |
-|3  | [Stack](#3-Stack) |
-|4  | [Queue](#4-Queue) |
-|5  | [Linked List](#5-Linked-List) |
-|6  | [Greedy](#6-Greedy) |
-|7  | [Recursion and Backtracking](#7-Recursion-and-Backtracking) |
-|8  | [Binary Tree](#8-Binary-Tree) |
-|9  | [Binary Search Tree](#9-Binary-Search-Tree) |
-|10  | [Heap](#10-Heap) |
-|11  | [Graph](#11-Graph) |
-|12  | [Trie](#12-Trie) |
-|13  | [Dynamic Programming](#13-Dynamic-Programming) |
+| No. | Topic | Count |
+| --- | --------- | --- |
+|1  | [Array](#1-Array) | 42  |
+|2  | [String](#2-String) | 18  |
+|3  | [Stack](#3-Stack) | 12  |
+|4  | [Queue](#4-Queue) | 7  |
+|5  | [Linked List](#5-Linked-List) | 19  |
+|6  | [Greedy](#6-Greedy) | 15  |
+|7  | [Recursion and Backtracking](#7-Recursion-and-Backtracking) | 24  |
+|8  | [Binary Tree](#8-Binary-Tree) | 21  |
+|9  | [Binary Search Tree](#9-Binary-Search-Tree) | 10  |
+|10  | [Heap](#10-Heap) | 18  |
+|11  | [Graph](#11-Graph) | 35  |
+|12  | [Trie](#12-Trie) | 5  |
+|13  | [Dynamic Programming](#13-Dynamic-Programming) | 48  |
 
 ### 1. Array
 | No. | Problem | Practice Link |
