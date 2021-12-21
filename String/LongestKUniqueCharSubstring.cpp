@@ -22,38 +22,27 @@ using namespace std;
 class Solution{
     public:
     int longestKSubstr(string s, int k) {
-        int maxLen = -1;
-        int count = 0;
         unordered_map<char, int> mp;
+        int count = 0, i = 0, j = 0, ans = -1;
         
-        int i=0, j=0;
-        while (j < s.length()) {
-            if (mp.find(s[j]) == mp.end() || mp[s[j]] == 0) {
-                count++;
-            }
-            
-            mp[s[j]] += 1;
+        while (i <= j && j < s.length()) {
+            mp[s[j]]++;
+            if (mp[s[j]] == 1) count++;
             
             if (count == k) {
-                maxLen = max(maxLen, j - i + 1);
-                j++;
-            } else if (count < k) {
-                j++;
-            } else if (count > k) {
-                while (count > k && i <= j) {
-                    mp[s[i]] -= 1;
-                    if (mp[s[i]] == 0) count--;
-                    i++;
-                }
-                
-                if (count == k) {
-                    maxLen = max(maxLen, j - i + 1);
-                    j++;
-                }
+                ans = max(ans, j - i + 1);
             }
+            
+            if (count > k) {
+                mp[s[i]]--;
+                if (mp[s[i]] == 0) count--;
+                i++;
+            }
+            
+            j++;
         }
         
-        return maxLen;
+        return ans;
     }
 };
 
