@@ -1,83 +1,71 @@
 /*
 
 **************** Problem Description ****************
-Find the largest rectangular area possible in a given histogram where the largest rectangle can be made of a number of contiguous bars.
-For simplicity, assume that all bars have the same width and the width is 1 unit.
 
-  Example : 
+Given an array of integers heights representing the histogram's bar height where the width of each bar is 1, return the area of the largest rectangle in the histogram.
 
-  Input: 
-  N = 7
-  arr[] = {6,2,5,4,5,1,6}
-  
-  Output:
-  12
+
+    Example 1 : 
+
+    Input: heights = [2,1,5,6,2,3]
+
+    Output: 10
+
+    Explanation:
+    The above is a histogram where width of each bar is 1.
+    The largest rectangle is shown in the red area, which has an area = 10 units.
+
+
+    Example 2 : 
+
+    Input: heights = [2,4]
+
+    Output: 4
 
 */
 
-#include <bits/stdc++.h>
-using namespace std;
-
-class Solution
-{
-    public:
-    //Function to find largest rectangular area possible in a given histogram.
-    long long getMaxArea(long long arr[], int n)
-    {
-        long long mx = 0;
-        vector<long long> span;
-        stack<long long> stk;
+class Solution {
+public:
+    int largestRectangleArea(vector<int>& heights) {
+        vector<int> smallerLeft;        
+        vector<int> smallerRight;
+        stack<int> stk;
         
-        // Calculate max left span width
-        for (long long i = 0; i < n; i++) {
-            while (!stk.empty() && arr[stk.top()] >= arr[i]) stk.pop();
+        for (int i = 0; i < heights.size(); i++) {
+            while (!stk.empty() && heights[i] <= heights[stk.top()]) stk.pop();
             
-            if (stk.empty()) span.push_back(i + 1);
-            else span.push_back(i - stk.top());
+            if (stk.empty()) smallerLeft.push_back(-1);
+            else smallerLeft.push_back(stk.top());
             
             stk.push(i);
         }
         
         while (!stk.empty()) stk.pop();
-        
-        // Calculate max right span width
-        for (long long i = n - 1; i >= 0; i--) {
-            while (!stk.empty() && arr[stk.top()] >= arr[i]) stk.pop();
-            
-            if (stk.empty()) span[i] += n - i;
-            else span[i] += stk.top() - i;
-            
+
+        for (int i = heights.size() - 1; i >= 0; i--) {
+            while (!stk.empty() && heights[i] <= heights[stk.top()]) stk.pop();
+
+            if (stk.empty()) smallerRight.push_back(-1);
+            else smallerRight.push_back(stk.top());
+
             stk.push(i);
         }
         
-        for (long long i = 0; i < n; i++) {
-            long long area = (span[i] - 1) * arr[i];
-            mx = max(mx, area);
+        reverse(smallerRight.begin(), smallerRight.end());
+        
+        int ans = 0;
+        for (int i = 0; i < heights.size(); i++) {
+            int spanLeft = smallerLeft[i] == -1 ? i + 1 : i - smallerLeft[i];
+            int spanRight = smallerRight[i] == -1 ? heights.size() - i : smallerRight[i] - i;
+            
+            int area = heights[i] * (spanLeft + spanRight - 1);
+            
+            ans = max(ans, area);
         }
         
-        return mx;
+        return ans;
     }
 };
-
-int main()
- {
-    long long t;
-
-    cin>>t;
-    while(t--)
-    {
-        int n;
-        cin>>n;
-        
-        long long arr[n];
-        for(int i=0;i<n;i++)
-            cin>>arr[i];
-        Solution ob;
-        cout<<ob.getMaxArea(arr, n)<<endl;
-    
-    }
-	return 0;
-}
 
 /*
 
