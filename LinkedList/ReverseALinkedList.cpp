@@ -1,113 +1,65 @@
 /*
 
 **************** Problem Description ****************
-Given a linked list of N nodes. The task is to reverse this list.
+
+Given the head of a singly linked list, reverse the list, and return the reversed list
+
 
   Example 1 : 
 
-  Input:
-  LinkedList: 1->2->3->4->5->6
-  
-  Output: 6 5 4 3 2 1
+  Input: head = [1,2,3,4,5]
+
+  Output: [5,4,3,2,1]
+
 
   Example 2 : 
 
-  Input:
-  LinkedList: 2->7->8->9->10
+  Input: head = [1,2]
   
-  Output: 10 9 8 7 2
+  Output: [2,1]
+
+
+  Example 3 : 
+
+  Input: head = []
+
+  Output: []
 
 */
 
-#include<stdio.h>
-#include<stdlib.h>
-
-struct Node
-{
-    int data;
-    struct Node *next;
-    
-}*start;
-
-void insert();
-void display(struct Node *head);
-
-//User function Template for C
-
-struct Node* reverseList(struct Node *head)
-{
-    // With Recursion
-    if (head == NULL || head->next == NULL) return head;
-    
-    struct Node *rest = reverseList(head->next);
-    
-    head->next->next = head;
-    
-    head->next = NULL;
-    
-    return rest;
-    
-    
-    // Without Recursion
-    // struct Node *curr = head;
-    // struct Node *prev = NULL;
-    // while (curr != NULL) {
-    //     head = head->next;
-    //     curr->next = prev;
-    //     prev = curr;
-    //     curr = head;
-    // }
-    // return prev;
-}
-
-int main()
-{
-    int t;
-    scanf("%d",&t);
-    while(t--)
-    {
-      start=NULL;
-      insert();
-      start = reverseList(start);
-      display(start);
-      printf("\n");
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+class Solution {
+public:
+    ListNode* reverseList(ListNode* head) {
+        // Using Recursion
+        if (!head || !head->next) return head;
+        
+        ListNode* last = reverseList(head->next);
+        head->next->next = head;
+        head->next = nullptr;
+        
+        return last;
+        
+        // Without Recursion
+        // ListNode* prev = nullptr;
+        // ListNode* curr = head;
+        
+        // while (curr) {
+            // head = head->next;
+            // curr->next = prev;
+            // prev = curr;
+            // curr = head;
+        // }
+        
+        // return prev;
     }
-    return 0;
-
-}
-
-
- void insert()
- {
-     int n,value,i;
-     scanf("%d",&n);
-     struct Node *temp;
-     for(i=0;i<n;i++)
-     {
-         scanf("%d",&value);
-         if(i==0)
-         {
-              start=(struct Node *) malloc( sizeof(struct Node) );
-              start->data=value;
-              start->next=NULL;
-              temp=start;
-              continue;
-         }
-         else
-         {
-             temp->next= (struct Node *) malloc( sizeof(struct Node) );
-             temp=temp->next;
-             temp->data=value;
-             temp->next=NULL;
-         }
-     }
- }
- 
- void display(struct Node *head)
-{
-   while(head!=NULL)
-  {
-   printf("%d ",head->data);
-    head=head->next;
-  }
-}
+};
