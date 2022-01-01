@@ -17,7 +17,7 @@
 |10  | [Heap](#10-Heap) | 18  |
 |11  | [Graph](#11-Graph) | 35  |
 |12  | [Trie](#12-Trie) | 5  |
-|13  | [Dynamic Programming](#13-Dynamic-Programming) | 48  |
+|13  | [Dynamic Programming](#13-Dynamic-Programming) | 49  |
 
 ### 1. Array
 | No. | Problem | Practice Link |
