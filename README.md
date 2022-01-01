@@ -344,3 +344,4 @@
 |46  | [Interleaving String](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/InterleavingString.cpp) | [Leetcode](https://leetcode.com/problems/interleaving-string/) |
 |47  | [Maximum Profit in Job Scheduling](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/JobSchedulingMaxProfit.cpp) | [Leetcode](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) |
 |48  | [Cheapest Flights Within K Stops](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/CheapestFlightsWithinKStops.cpp) | [Leetcode](https://leetcode.com/problems/cheapest-flights-within-k-stops/) |
+|49  | [Burst Balloons](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/BurstBalloons.cpp) | [Leetcode](https://leetcode.com/problems/burst-balloons/) |
