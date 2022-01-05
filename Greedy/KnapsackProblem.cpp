@@ -36,27 +36,20 @@ Return the maximum total number of units that can be put on the truck.
 class Solution {
 public:
     int maximumUnits(vector<vector<int>>& boxTypes, int truckSize) {
-        sort(boxTypes.begin(), boxTypes.end(), [](vector<int> &first, vector<int> &second){
+        sort(boxTypes.begin(), boxTypes.end(), [](vector<int>& first, vector<int>& second) {
             return first[1] > second[1];
         });
         
-        int count = 0;
-        int capacity = truckSize;
-        int start = 0;
-        while (capacity > 0 && start < boxTypes.size()) {
-            vector<int> bt = boxTypes[start];
-            if (bt[0] <= capacity) {
-                count += bt[0] * bt[1];
-                capacity -= bt[0];
-            } else {
-                count += capacity * bt[1];
-                capacity = 0;
-            }
+        int ans = 0;
+        for (vector<int> b : boxTypes) {
+            if (truckSize <= 0) break;
             
-            start++;
+            int units = min(b[0], truckSize);
+            truckSize -= units;
+            ans += (b[1] * units);
         }
         
-        return count;
+        return ans;
     }
 };
 
