@@ -17,7 +17,7 @@
 |10  | [Heap](#10-Heap) | 18  |
 |11  | [Graph](#11-Graph) | 35  |
 |12  | [Trie](#12-Trie) | 5  |
-|13  | [Dynamic Programming](#13-Dynamic-Programming) | 49  |
+|13  | [Dynamic Programming](#13-Dynamic-Programming) | 50  |
 
 ### 1. Array
 | No. | Problem | Practice Link |
@@ -345,3 +345,4 @@
 |47  | [Maximum Profit in Job Scheduling](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/JobSchedulingMaxProfit.cpp) | [Leetcode](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) |
 |48  | [Cheapest Flights Within K Stops](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/CheapestFlightsWithinKStops.cpp) | [Leetcode](https://leetcode.com/problems/cheapest-flights-within-k-stops/) |
 |49  | [Burst Balloons](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/BurstBalloons.cpp) | [Leetcode](https://leetcode.com/problems/burst-balloons/) |
+|50  | [Cherry Pickup 2](https://github.com/pr7prashant/dsa-practice/blob/master/DynamicProgramming/CherryPickup2.cpp) | [Leetcode](https://leetcode.com/problems/cherry-pickup-ii/) |
