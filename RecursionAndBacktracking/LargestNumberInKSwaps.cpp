@@ -35,43 +35,33 @@ using namespace std;
 class Solution
 {
     public:
-    bool comp(string str, string max) {
-        for (int i = 0; i < str.length(); i++) {
-            if (str[i] - max[i] > 0) return 1;
-            else if (str[i] - max[i] < 0) return 0;
-        }
+    public:
+    string solve(string& str, int k, int start) {
+        if (k == 0 || start == str.length()) return str;
         
-        return 0;
-    }
-    
-    void maximize(string &str, int k, int start, string &max) {
-        if (k == 0) return;
-        
+        string ans = str;
         bool swapped = false;
-        
         for (int i = start + 1; i < str.length(); i++) {
-            if (str[start] < str[i]) {
+            if (str[i] > str[start]) {
+                swap(str[start], str[i]);
+                string temp = solve(str, k-1, start + 1);
+                ans = max(ans, temp);
+                swap(str[start], str[i]);
                 swapped = true;
-                swap(str[start], str[i]);
-                if (comp(str, max)) max = str;
-                
-                maximize(str, k - 1, start + 1, max);
-                
-                swap(str[start], str[i]);
             }
         }
         
-        if (!swapped && start < str.length() - 1)
-            maximize(str, k, start + 1, max);
+        if (!swapped) {
+            string temp = solve(str, k, start + 1);
+            ans = max(ans, temp);
+        }
+        
+        return ans;
     }
     
     //Function to find the largest number after k swaps.
-    string findMaximumNum(string str, int k)
-    {
-        string max = str;
-        maximize(str, k, 0, max);
-       
-        return max;
+    string findMaximumNum(string str, int k) {
+       return solve(str, k, 0);
     }
 };
 
