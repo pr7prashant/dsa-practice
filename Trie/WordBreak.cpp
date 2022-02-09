@@ -93,8 +93,10 @@ public:
         return curr->wordEnd > 0;
     }
         
-    bool canSegment(string &str) {
-        if (search(str)) return true;
+    bool canSegment(string &str, unordered_map<string,bool>& dp) {
+        if (dp.find(str) != dp.end()) return dp[str];
+        
+        if (search(str)) return dp[str] = true;
         
         TrieNode* curr = root;
         
@@ -102,16 +104,17 @@ public:
             string s1 = str.substr(0, i);
             string s2 = str.substr(i, str.length() - i);
                 
-            if (search(s1) && canSegment(s2)) return true;
+            if (search(s1) && canSegment(s2, dp)) return dp[str] = true;
         }
         
-        return false;
+        return dp[str] = false;
     }
     
     bool wordBreak(string s, vector<string>& wordDict) {
         for (string word : wordDict) insert(word);
+        unordered_map<string,bool> dp;
         
-        return canSegment(s);
+        return canSegment(s, dp);
     }
 };
 
