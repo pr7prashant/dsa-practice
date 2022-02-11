@@ -34,7 +34,22 @@ Return the number of different expressions that you can build, which evaluates t
 
 class Solution {
 public:   
+    int helper(vector<int>& nums, int target, int sum, int n, unordered_map<string,int>& dp) {
+        if (n == 0 && target != sum) return 0;
+        if (n == 0 && target == sum) return 1;
+        
+        string key = to_string(n) + "," + to_string(sum);
+        if (dp.find(key) != dp.end()) return dp[key];
+        
+        return dp[key] = helper(nums, target, sum-nums[n-1], n-1, dp) + helper(nums, target, sum+nums[n-1], n-1, dp);        
+    }
+    
     int findTargetSumWays(vector<int>& nums, int target) {
+        // Memoization
+        // unordered_map<string,int> dp;
+        // return helper(nums, target, 0, nums.size(), dp);
+        
+        // Tabulation
         int n = nums.size();
         int range = 0;
         for (int num : nums) range += num;
