@@ -30,35 +30,23 @@ Note: Follow 0 based indexing.
 #include<bits/stdc++.h>
 using namespace std;
 
-class Solution 
-{
+class Solution {
     public:
     //Function to find if there is a celebrity in the party or not.
-    int celebrity(vector<vector<int> >& M, int n) 
-    {
-        int start = 0, end = n-1;
+    int celebrity(vector<vector<int> >& M, int n) {
+        int i = 0, j = n-1;
         
-        while(start != end) {
-            if (M[start][end] == 0) end--;
-            else start++;
+        while (i != j) {
+            if (M[i][j] == 0) j--;
+            else i++;
         }
         
-        bool flag = true;
-        for (int i=0; i<n; i++) {
-            if (M[start][i] == 1) {
-                flag = false;
-                break;
-            }
-            
-            if (M[i][start] == 0 && i != start) {
-                flag = false;
-                break;
-            }
+        for (int k = 0; k < n; k++) {
+            if (M[i][k] == 1) return -1;
+            if (k != i && M[k][i] == 0) return -1;
         }
         
-        if (flag) return start;
-        
-        return -1;
+        return i;
     }
 };
 
