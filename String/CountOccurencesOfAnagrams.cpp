@@ -24,58 +24,33 @@ using namespace std;
 class Solution{
 public:
 	int search(string pat, string txt) {
-	    int occ = 0;
-	    unordered_map<char, int> mp;
-	    int len = pat.length();
+	    if (pat.length() > txt.length()) return 0;
 	    
-	    for (int i=0; i < len; i++) {
-	        mp[pat[i]] += 1;
-	    }
-	    
-	    int count = mp.size();
-	    
-	    for (int i=0; i < len; i++) {
-	        if (mp.find(txt[i]) != mp.end()) {
-	            mp[txt[i]] -= 1;
-	        
-	            if (mp[txt[i]] == 0) {
-    	            count--;
-    	        } else if (mp[txt[i]] == -1) {
-    	            count++;
-    	        }
-	        }
-	    }
-	    
-	    if (count == 0) occ++;
-	    
-	    int i = 0;
-	    for (int j=len; j < txt.length(); j++) {
-	        if (mp.find(txt[i]) != mp.end()) {
-	            mp[txt[i]] += 1;
-	            
-	            if (mp[txt[i]] == 0) {
-    	            count--;
-    	        } else if (mp[txt[i]] == 1) {
-    	            count++;
-    	        }
-	        }
-	        
-	        i++;
-	        
-	        if (mp.find(txt[j]) != mp.end()) {
-	            mp[txt[j]] -= 1;
-	        
-	            if (mp[txt[j]] == 0) {
-    	            count--;
-    	        } else if (mp[txt[j]] == -1) {
-    	            count++;
-    	        }
-	        }
-	        
-	        if (count == 0) occ++;
-	    }
-	   
-	    return occ;
+        unordered_map<char,int> mp;
+        
+        for (char ch : pat) mp[ch]++;
+        
+        int i = 0, j = 0, ans = 0, count = mp.size();
+        
+        while (j < txt.length()) {
+            if (mp.find(txt[j]) != mp.end()) {
+                mp[txt[j]]--;
+                if (mp[txt[j]] == 0) count--;
+            }
+            
+            if (j - i + 1 == pat.length()) {
+                if (count == 0) ans++;
+                if (mp.find(txt[i]) != mp.end()) {
+                    mp[txt[i]]++;
+                    if (mp[txt[i]] == 1) count++;
+                }
+                i++;
+            }
+            
+            j++;
+        }
+        
+        return ans;
 	}
 
 };
