@@ -27,40 +27,34 @@ Given an array of integers heights representing the histogram's bar height where
 class Solution {
 public:
     int largestRectangleArea(vector<int>& heights) {
-        vector<int> smallerLeft;        
-        vector<int> smallerRight;
+        vector<int> spanLeft(heights.size());
+        vector<int> spanRight(heights.size());
         stack<int> stk;
         
         for (int i = 0; i < heights.size(); i++) {
-            while (!stk.empty() && heights[i] <= heights[stk.top()]) stk.pop();
+            while (!stk.empty() && heights[stk.top()] >= heights[i]) stk.pop();
             
-            if (stk.empty()) smallerLeft.push_back(-1);
-            else smallerLeft.push_back(stk.top());
-            
+            if (!stk.empty()) spanLeft[i] = i - stk.top();
+            else spanLeft[i] = i + 1;
+                
             stk.push(i);
         }
         
-        while (!stk.empty()) stk.pop();
-
+        while(!stk.empty()) stk.pop();
+        
         for (int i = heights.size() - 1; i >= 0; i--) {
-            while (!stk.empty() && heights[i] <= heights[stk.top()]) stk.pop();
-
-            if (stk.empty()) smallerRight.push_back(-1);
-            else smallerRight.push_back(stk.top());
-
+            while (!stk.empty() && heights[stk.top()] >= heights[i]) stk.pop();
+            
+            if (!stk.empty()) spanRight[i] = stk.top() - i;
+            else spanRight[i] = heights.size() - i;
+                
             stk.push(i);
         }
-        
-        reverse(smallerRight.begin(), smallerRight.end());
         
         int ans = 0;
         for (int i = 0; i < heights.size(); i++) {
-            int spanLeft = smallerLeft[i] == -1 ? i + 1 : i - smallerLeft[i];
-            int spanRight = smallerRight[i] == -1 ? heights.size() - i : smallerRight[i] - i;
-            
-            int area = heights[i] * (spanLeft + spanRight - 1);
-            
-            ans = max(ans, area);
+            int span = spanLeft[i] + spanRight[i] - 1;
+            ans = max(ans, span * heights[i]);
         }
         
         return ans;
