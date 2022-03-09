@@ -41,51 +41,48 @@ If the number of keys exceeds the capacity from this operation, evict the least 
 */
 
 class LRUCache {
-private:
-    int cap;
-    list<pair<int, int>> ls;
 public:
+    int cap;
+    list<pair<int,int>> lru;
+    unordered_map<int,list<pair<int,int>>::iterator> mp;
+    
     LRUCache(int capacity) {
         cap = capacity;
     }
     
     int get(int key) {
-      auto it = find_if(
-        ls.begin(),
-        ls.end(),
-        [key](pair<int, int> p) { return p.first == key; }
-      );
-      
-      if (it == ls.end()) return -1;
-      
-      pair<int, int> p = { key, it->second };
-      ls.push_back(p);
-      ls.erase(it);
-      
-      return p.second;
+        if (mp.find(key) == mp.end()) return -1;
+        
+        lru.emplace_front(key, mp[key]->second);
+        lru.erase(mp[key]);
+        mp[key] = lru.begin();
+        
+        return mp[key]->second;
     }
     
-    void put(int key, int value) {     
-        auto it = find_if(
-          ls.begin(),
-          ls.end(),
-          [key](pair<int, int> p) { return p.first == key; }
-        );
-      
-        pair<int, int> p = { key, value };
-      
-        if (it == ls.end()) {
-          pair<int, int> p = { key, value };
-          
-          if (ls.size() == cap) ls.pop_front();
-          
-          ls.push_back(p); 
-        } else {
-          ls.push_back(p);
-          ls.erase(it);
+    void put(int key, int value) {
+        if (get(key) != -1) {
+            mp[key]->second = value;
+            return;
         }
+        
+        if (lru.size() == cap) {
+            int key = lru.back().first;
+            mp.erase(key);
+            lru.pop_back();
+        }
+        
+        lru.emplace_front(key,value);
+        mp[key] = lru.begin();
     }
 };
+
+/**
+ * Your LRUCache object will be instantiated and called as such:
+ * LRUCache* obj = new LRUCache(capacity);
+ * int param_1 = obj->get(key);
+ * obj->put(key,value);
+ */
 
 /*
 
