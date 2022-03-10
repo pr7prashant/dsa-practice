@@ -27,68 +27,51 @@ The distance between two adjacent cells is 1.
 
 class Solution {
 public:
+    vector<pair<int,int>> moves = { {1,0}, {0,1}, {-1,0}, {0,-1} };
+    
+    bool isValid(vector<vector<int>>& mat, int x, int y) {
+        if (x >=0 && x < mat.size() && y >= 0 && y < mat[0].size()) return true;
+        return false;
+    }
+    
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
-      vector<int> v(mat[0].size(), 0);
-      vector<vector<int>> visited(mat.size(), v);
-      queue<pair<int, int>> q;
-      int oneCount = 0;
-      
-      for (int i=0; i<mat.size(); i++) {
-        for (int j=0; j<mat[0].size(); j++) {
-          if (mat[i][j] == 1) oneCount++;
-          
-          if (mat[i][j] == 0) {
-            pair<int, int> p = { i, j };
-            q.push(p);
-          }
+        vector<vector<bool>> visited(mat.size(), vector<bool>(mat[0].size(), false));
+        queue<tuple<int,int,int>> q;
+        
+        int oneCount = 0;
+        for (int i = 0; i < mat.size(); i++) {
+            for (int j = 0; j < mat[0].size(); j++) {
+                if (mat[i][j] == 1) oneCount++;
+                if (mat[i][j] == 0) q.push({i,j,1});
+            }
         }
-      }
-      
-      if (oneCount == 0) return visited;
-      
-      int distance = 0;
-      while (!q.empty()) {
-        distance++;
-        int s = q.size();
-        while (s--) {
-          int x = q.front().first;
-          int y = q.front().second;
-          
-          visited[x][y] = 1;
-          
-          if (x+1 < mat.size() && mat[x+1][y] == 1 && visited[x+1][y] == 0) {
-            visited[x+1][y] = 1;
-            mat[x+1][y] = distance;
-            pair<int, int> p = { x+1, y };
-            q.push(p);
-          }
-          
-          if (x-1 >= 0 && mat[x-1][y] == 1 && visited[x-1][y] == 0) {
-            visited[x-1][y] = 1;
-            mat[x-1][y] = distance;
-            pair<int, int> p = { x-1, y };
-            q.push(p);
-          }
-          
-          if (y+1 < mat[0].size() && mat[x][y+1] == 1 && visited[x][y+1] == 0) {
-            visited[x][y+1] = 1;
-            mat[x][y+1] = distance;
-            pair<int, int> p = { x, y+1 };
-            q.push(p);
-          }
-          
-          if (y-1 >= 0 && mat[x][y-1] == 1 && visited[x][y-1] == 0) {
-            visited[x][y-1] = 1;
-            mat[x][y-1] = distance;
-            pair<int, int> p = { x, y-1 };
-            q.push(p);
-          }
-          
-          q.pop();
+        
+        if (oneCount == 0) return mat;
+        
+        while (!q.empty()) {
+            auto [x,y,d] = q.front();
+            q.pop();
+            
+            visited[x][y] = true;
+            for (pair<int,int> move : moves) {
+                auto [dx,dy] = move;
+                int newX = x + dx;
+                int newY = y + dy;
+                
+                if (isValid(mat, newX, newY)) {
+                    if (mat[newX][newY] == 1 && !visited[newX][newY]) {
+                        oneCount--;
+                        mat[newX][newY] = d;
+                        q.push({newX,newY,d+1});
+                        visited[newX][newY] = true;
+                    }
+                }                
+            }
+            
+            if (oneCount == 0) return mat;
         }
-      }
-      
-      return mat;
+        
+        return mat;
     }
 };
 
