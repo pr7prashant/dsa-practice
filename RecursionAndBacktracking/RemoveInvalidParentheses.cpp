@@ -46,8 +46,6 @@ public:
     }
     
     void removeHelper(string s, int invalid) {
-        if (invalid < 0) return;
-        
         if (invalid == 0) {
             int invalidNow = countInvalid(s);
             if (invalidNow == 0) {
