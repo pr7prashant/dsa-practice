@@ -45,19 +45,14 @@ class Solution {
         q.push(start);
         
         while (!q.empty()) {
-            int n = q.size();
+            int front = q.front();
+            q.pop();
             
-            while (n--) {
-                int front = q.front();
-                
-                if (visited[front]) return true;
-                
-                visited[front] = true;
-                q.pop();
-                
-                for (int n : adj[front]) {
-                    if (!visited[n]) q.push(n);
-                }
+            if (visited[front]) return true;
+            
+            visited[front] = true;
+            for (int n : adj[front]) {
+                if (!visited[n]) q.push(n);
             }
         }
         
