@@ -27,37 +27,27 @@ class Solution
 	public:
 	//Function to find sum of weights of edges of the Minimum Spanning Tree.
     int spanningTree(int V, vector<vector<int>> adj[]) {
+        vector<int> mst(V, false);
+        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
         int ans = 0;
-        vector<int> parent(V, -1);
-        vector<bool> mst(V, false);
-        priority_queue< pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>> > pq;
-        
-        parent[0] = 0;
-        pq.push({0, 0});
+        pq.push({0,0});
         
         while (!pq.empty()) {
-            pair<int, int> v = pq.top();
+            pair<int,int> curr = pq.top();
             pq.pop();
-            int weight = v.first;
-            int curr = v.second;
             
-            if (mst[curr]) continue;
+            if (mst[curr.second]) continue;
             
-            mst[curr] = true;
-            ans += weight;
-            
-            for (auto it : adj[curr]) {
+            mst[curr.second] = true;
+            ans += curr.first;
+            for (auto it : adj[curr.second]) {
                 int n = it[0];
                 int w = it[1];
-                
-                if (!mst[n]) {
-                    parent[n] = curr;
-                    pq.push({w, n});
-                }
+                if (!mst[n]) pq.push({w,n});
             }
         }
-	    
-	    return ans;
+        
+        return ans;
     }
 };
 
