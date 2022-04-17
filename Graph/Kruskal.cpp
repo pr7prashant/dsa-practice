@@ -28,7 +28,7 @@ class Solution
 	int getParent(vector<int> &parent, int v) {
 	    if (parent[v] == v) return v;
 	    
-	    return parent[v] = getParent(parent, parent[v]);
+	    return getParent(parent, parent[v]);
 	}
 	
 	void unionn(vector<int> &parent, vector<int> &rank, int v1, int v2) {
