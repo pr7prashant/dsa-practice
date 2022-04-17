@@ -31,16 +31,15 @@ A Hamiltonian path, is a path in an undirected or directed graph that visits eac
 #include<bits/stdc++.h>
 using namespace std;
 
-class Solution
-{
+class Solution {
     public:
     bool checkHamiltonianPath(map<int, vector<int>> &graph, vector<bool> &visited, int src, int count, int N) {
-        if (++count == N) return true;
+        if (count == N) return true;
         
         visited[src] = true;
         for (int n : graph[src]) {
             if (!visited[n]) {
-                if (checkHamiltonianPath(graph, visited, n, count, N)) return true;
+                if (checkHamiltonianPath(graph, visited, n, count + 1, N)) return true;
             }
         }
         visited[src] = false;
@@ -48,8 +47,7 @@ class Solution
         return false;
     }
     
-    bool check(int N,int M,vector<vector<int>> Edges)
-    {
+    bool check(int N,int M,vector<vector<int>> Edges) {
         // Create Graph
         map<int, vector<int>> graph;
         for (auto e : Edges) {
@@ -67,7 +65,7 @@ class Solution
         // Check for Hamiltonian Path
         vector<bool> visited(N + 1, false);
         for (auto it = graph.begin(); it != graph.end(); it++) {
-            if (checkHamiltonianPath(graph, visited, it->first, 0, N)) return true;
+            if (checkHamiltonianPath(graph, visited, it->first, 1, N)) return true;
         }
         
         return false;
