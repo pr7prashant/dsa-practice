@@ -27,18 +27,19 @@ class Solution
 	public:
 	int getParent(vector<int> &parent, int v) {
 	    if (parent[v] == v) return v;
-	    
 	    return getParent(parent, parent[v]);
 	}
 	
-	void unionn(vector<int> &parent, vector<int> &rank, int v1, int v2) {
+    void unionn(vector<int> &parent, vector<int> &rank, int v1, int v2) {
 	    v1 = getParent(parent, v1);
 	    v2 = getParent(parent, v2);
 	    
 	    if (rank[v1] < rank[v2]) {
 	        parent[v1] = v2;
+	        rank[v2]++;
 	    } else if (rank[v2] < rank[v1]) {
 	        parent[v2] = v1;
+	        rank[v1]++;
 	    } else {
 	        parent[v2] = v1;
 	        rank[v1]++;
