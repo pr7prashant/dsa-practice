@@ -207,7 +207,7 @@ Answer = (axb) + (axc) + (axd) + (bxc) + (bxd) + (cxd)
 
 Or
 
-Answer = (axb) + (a+b)xc + (a+b+c)xd ..........................(3)
+Answer = (a)xb + (a+b)xc + (a+b+c)xd ..........................(3)
 
 Do you see the pattern? That means when we find a new set, the new answer is the old answer + the sum of old values x new value.
 
