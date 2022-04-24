@@ -35,39 +35,22 @@ using namespace std;
 
 class Solution{
   public:
-    int helper(int* price, int n, int l, vector<vector<int>>& dp) {
-        if (n == 0 || l == 0) return 0;
+    int helper(int *price, int size, vector<int>& dp) {
+        if (size == 0) return 0;
         
-        if (dp[n][l] != -1) return dp[n][l];
+        if (dp[size] != -1) return dp[size];
         
-        if (n <= l) {
-            return dp[n][l] = max(price[n-1] + helper(price, n, l-n, dp), helper(price, n-1, l, dp));
+        int profit = 0;
+        for (int i = 1; i <= size; i++) {
+            profit = max(profit, price[i-1] + helper(price, size - i, dp));
         }
         
-        return dp[n][l] = helper(price, n-1, l, dp);
+        return dp[size] = profit;
     }
     
     int cutRod(int price[], int n) {
-        // Memoization
-        // vector<vector<int>> dp(n + 1, vector<int>(n + 1, -1));
-        // return helper(price, n, n, dp);
-        
-        // Tabulation
-        vector<vector<int>> dp(n + 1, vector<int>(n + 1));
-        
-        for (int i = 0; i < n + 1; i++) dp[i][0] = dp[0][i] = 0;
-        
-        for (int i = 1; i < n + 1; i++) {
-            for (int j = 1; j < n + 1; j++) {
-                if (i <= j) {
-                    dp[i][j] = max(price[i-1] + dp[i][j - i], dp[i-1][j]);
-                } else {
-                    dp[i][j] = dp[i-1][j];
-                }
-            }
-        }
-        
-        return dp[n][n];
+        vector<int> dp(n+1, -1);
+        return helper(price, n, dp);
     }
 };
 
@@ -91,6 +74,6 @@ int main() {
 /*
 
 **************** Logic ****************
-Variation of unbounded knapsack.
+Try to cut rod for all possible lengths recursively and memoize.
 
 */
