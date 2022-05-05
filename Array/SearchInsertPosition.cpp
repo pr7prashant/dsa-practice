@@ -45,19 +45,12 @@ You must write an algorithm with O(log n) runtime complexity.
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
-        int start = 0;
-        int end = nums.size() - 1;
-        
+        int start = 0, end = nums.size() - 1;
         while (start <= end) {
-            int mid = (start + end) / 2;
-            
-            // This works for strictly increasing array but will not handle duplicates.
-            // if (nums[mid] == target) return mid;
-            
-            if (nums[mid] >= target) end = mid - 1;
-            else start = mid + 1;
+            int mid = start + (end - start) / 2;
+            if (nums[mid] < target) start = mid + 1;
+            else end = mid - 1;
         }
-        
         return start;
     }
 };
@@ -65,6 +58,6 @@ public:
 /*
 
 **************** Logic ****************
-Regular Binary search.
+To insert x in a sorted array we need to find the index of the smallest element greater than or equal to x.
 
 */
