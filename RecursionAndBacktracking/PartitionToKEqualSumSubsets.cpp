@@ -24,20 +24,20 @@ Given an integer array nums and an integer k, return true if it is possible to d
 
 class Solution {
 public:
-    bool canPartition(vector<int>& nums, vector<int>& visited, int k, int start, int sum, int target) {
-        if (sum > target) return false;
-        
+    bool solve(vector<int>& nums, int subsetSum[], bool visited[], int k, int target, int start, int bucket) {
         if (k == 1) return true;
-        
-        if (sum == target) return canPartition(nums, visited, k - 1, 0, 0, target);
+        if (start == nums.size()) return false;
+        if (subsetSum[bucket] == target) return solve(nums, subsetSum, visited, k-1, target, 0, bucket + 1);
         
         for (int i = start; i < nums.size(); i++) {
-            if (visited[i] == 0) {
-                visited[i] = 1;
-            
-                if (canPartition(nums, visited, k, i+1, sum + nums[i], target)) return true;
-
-                visited[i] = 0;
+            if (!visited[i]) {
+                int temp = subsetSum[bucket] + nums[i];
+                if (temp > target) continue;
+                visited[i] = true;
+                subsetSum[bucket] += nums[i];
+                if (solve(nums, subsetSum, visited, k, target, i+1, bucket)) return true;
+                subsetSum[bucket] -= nums[i];
+                visited[i] = false;
             }
         }
         
@@ -46,13 +46,16 @@ public:
     
     bool canPartitionKSubsets(vector<int>& nums, int k) {
         int sum = 0;
-        for (auto n : nums) sum += n;
-        
+        for (int n : nums) sum += n;
         if (sum % k != 0) return false;
         
-        vector<int> visited(nums.size(), 0);
+        int n = nums.size();
+        bool visited[n];
+        int subsetSum[k];
+        for (int i = 0; i < k; i++) subsetSum[i] = 0;
+        for (int i = 0; i < n; i++) visited[i] = false;
         
-        return canPartition(nums, visited, k, 0, 0, sum / k);
+        return solve(nums, subsetSum, visited, k, sum/k, 0, 0);
     }
 };
 
@@ -60,7 +63,6 @@ public:
 
 **************** Logic ****************
 We can figure out what target each subset must sum to. Assume sum is the sum of nums[].
-The dfs process is to find a subset of nums[] which sum equals to target(sum/k). We use an array visited[] to record which element in nums[] is used.
-Each time when we get a cur_sum = sum/k, we will start from position 0 in nums[] to look up the elements that are not used yet and find another cur_sum = sum/k.
+Create k bucket. Recursively try to fill all the buckets using nums[].
 
 */
