@@ -2,67 +2,61 @@
 
 **************** Problem Description ****************
 
-Given a directed graph, check whether the graph contains a cycle or not. 
-Your function should return true if the given graph contains at least one cycle, else return false.
+There are a total of numCourses courses you have to take, labeled from 0 to numCourses - 1.
+You are given an array prerequisites where prerequisites[i] = [ai, bi] indicates that you must take course bi first if you want to take course ai.
+
+For example, the pair [0, 1], indicates that to take course 0 you have to first take course 1.
+Return true if you can finish all courses. Otherwise, return false.
     
     
     Example : 1
     
-    Input:
-    5 7
-    0 1
-    0 4
-    1 2
-    1 3
-    4 1
-    2 3
-    3 4
+    Input: numCourses = 2, prerequisites = [[1,0]]
+
+    Output: true
+
+    Explanation: There are a total of 2 courses to take. To take course 1 you should have finished course 0. So it is possible.
+
+
+    Example : 2
+
+    Input: numCourses = 2, prerequisites = [[1,0],[0,1]]
+
+    Output: false
     
-    Output: 1
+    Explanation: There are a total of 2 courses to take. 
+    To take course 1 you should have finished course 0, and to take course 0 you should also have finished course 1. So it is impossible.    
     
 */
 
-#include <bits/stdc++.h>
-
-using namespace std;
-
-bool helper(map<int, vector<int>> &graph, vector<bool> &visited, int start) {
-    if (visited[start]) return true;
-    
-    visited[start] = true;
-    for (auto n : graph[start]) {
-        return helper(graph, visited, n);
-    }
-    visited[start] = false;
-    
-    return false;
-}
-
-bool isCyclic(map<int, vector<int>> &graph, int V) {
-    for (int i = 0; i < V; i++) {
-        vector<bool> visited(V, false);
-        if (helper(graph, visited, i)) return true;
-    }
-    
-    return false;
-}
-
-int main() {
-    int V, E;
-    cin >> V >> E;
-    
-    map<int, vector<int>> graph;
-    
-    // Create Graph
-    for (int i = 0; i < E; i++) {
-        int start, end;
-        cin >> start >> end;
+class Solution {
+public:
+    bool hasCycle(unordered_map<int, vector<int>>& graph, int start, vector<bool>& visited, vector<bool>& path) {
+        visited[start] = path[start] = true;
+        for (int n : graph[start]) {
+            if (!visited[n]) {
+                if (hasCycle(graph, n, visited, path)) return true;
+            } else if (path[n]) {
+                return true;
+            }
+        }
+        path[start] = false;
         
-        if (graph[start].size() > 0) graph[start].push_back(end);
-        else graph[start] = { end };
+        return false;
     }
     
-    cout << isCyclic(graph, V);
-    
-    return 0;
-}
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        // Create Graph
+        unordered_map<int, vector<int>> graph;
+        for (vector<int>& curr : prerequisites) graph[curr[1]].push_back(curr[0]);
+        
+        // Check Cycle
+        vector<bool> visited(numCourses, false);
+        vector<bool> path(numCourses, false);
+        for (int i = 0; i < numCourses; i++) {
+            if (!visited[i] && hasCycle(graph, i, visited, path)) return false;
+        }
+        
+        return true;
+    }
+};
