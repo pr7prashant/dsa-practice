@@ -12,7 +12,7 @@
 |5  | [Linked List](#5-Linked-List) | 19  |
 |6  | [Greedy](#6-Greedy) | 15  |
 |7  | [Recursion and Backtracking](#7-Recursion-and-Backtracking) | 24  |
-|8  | [Binary Tree](#8-Binary-Tree) | 21  |
+|8  | [Binary Tree](#8-Binary-Tree) | 22  |
 |9  | [Binary Search Tree](#9-Binary-Search-Tree) | 10  |
 |10  | [Heap](#10-Heap) | 18  |
 |11  | [Graph](#11-Graph) | 35  |
@@ -209,6 +209,7 @@
 |19  | [Tree Isomorphism Problem](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/TreeIsomorphism.cpp) | [Leetcode](https://leetcode.com/problems/flip-equivalent-binary-trees/) |
 |20  | [Populate Inorder Successor for all nodes](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/PopulateInorderSuccessor.cpp) | [GFG](https://practice.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1#) |
 |21  | [Check Completeness of a Binary Tree](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/CheckCompleteness.cpp) | [Leetcode](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) |
+|22  | [Range Sum Query - Segment Tree](https://github.com/pr7prashant/dsa-practice/blob/master/BinaryTree/SegmentTree.cpp) | [Leetcode](https://leetcode.com/problems/check-completeness-of-a-binary-tree/https://leetcode.com/problems/range-sum-query-mutable/) |
 
 ### 9. Binary Search Tree
 | No. | Problem | Practice Link |
