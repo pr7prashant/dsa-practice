@@ -67,40 +67,42 @@ struct Node
     }
 };
 */
-class Solution{
+
+class Solution {
 public:
-    Node* divide(int N, Node *head) {
-        if (!head || !head->next) return head;
+    Node* divide(int N, Node* head) {
+        Node* odd_start = nullptr;
+        Node* even_start = nullptr;
+        Node* odd_itr = nullptr;
+        Node* even_itr = nullptr;
         
-        Node *prev = NULL;
-        Node *curr = head;
-        
-        while (curr && curr->data % 2 == 0) {
-            prev = curr;
-            curr = curr->next;
-        }
-        
-        Node *evenHead = prev ? prev : NULL;
-        
-        while (curr) {
-            if (prev && curr->data % 2 == 0) {
-                prev->next = curr->next;
-                if (evenHead) {
-                    curr->next = evenHead->next;
-                    evenHead->next = curr;
+        while (head) {
+            if (head->data & 1) {
+                if (odd_start) {
+                    odd_itr->next = head;
+                    odd_itr = odd_itr->next;
                 } else {
-                    curr->next = head;
-                    head = curr;
+                    odd_itr = odd_start = head;
                 }
-                evenHead = curr;
-                curr = prev->next;
             } else {
-                prev = curr;
-                curr = curr->next;
+                if (even_start) {
+                    even_itr->next = head;
+                    even_itr = even_itr->next;
+                } else {
+                    even_itr = even_start = head;
+                }
             }
+            head = head->next;
         }
         
-        return head;
+        if (odd_itr) odd_itr->next = nullptr;
+        if (even_itr) even_itr->next = nullptr;
+        
+        if (!odd_start) return even_start;
+        if (!even_start) return odd_start;
+        
+        even_itr->next = odd_start;
+        return even_start;
     }
 };
 
